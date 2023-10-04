@@ -62,7 +62,8 @@ const test = () => {
             console.log({
                 id: idContry,
                 name: nameContries[idContry],
-                answer: answer
+                answer: answer,
+                correct: arr2
             });
         });
     });
