@@ -17,9 +17,20 @@ const getRandomNumber = (min,max) => {
 
 const test = () => {
     var arrContries = [];
-    var nameContries = require('./countries.json');
+    // var nameContries = require('./countries.json');
+    var nameContries = require('./contriesvi.json');
+    var index = 0;
     for (var key in nameContries){
-        arrContries.push(nameContries[key]);
+        // arrContries.push({
+        //     ...nameContries[key],
+        //     index: index
+        // });
+        console.log({
+            ...nameContries[key],
+            index: index
+        })
+        console.log(',')
+        index += 1;
     }
     // console.log(arrContries);
     const testFolder = './svg';
@@ -28,45 +39,49 @@ const test = () => {
     let random2;
     let random3;
 
-    fs.readdir(testFolder, (err, files) => {
-        files.forEach(file => {
-            var idContry = file.substring(0, file.indexOf('.')).toUpperCase()
-            for(i = 0; i < arrRange.length; i++) {
-                min = arrRange[i][0];
-                max = arrRange[i][1];
-                var randomNumber = getRandomNumber(min, max);
-                if (i == 0) {
-                    random1 = randomNumber;
-                } else if (i == 1) {
-                    random2 = randomNumber;
-                } else {
-                    random3 = randomNumber;
-                }
-            }
-            let arr = [0,1,2,3];
-            let randomNumberArr = getRandomNumber(0, 3);
-            let arr0 = arr[randomNumberArr];
-            arr.splice(randomNumberArr, 1);
-            randomNumberArr = getRandomNumber(0, 2);
-            let arr1 = arr[randomNumberArr];
-            arr.splice(randomNumberArr, 1);
-            randomNumberArr = getRandomNumber(0, 1);
-            let arr2 = arr[randomNumberArr];
-            arr.splice(randomNumberArr, 1);
-            let arr3 = arr[0];
-            let answer = [];
-            answer[arr0] = arrContries[random1];
-            answer[arr1] = arrContries[random2];
-            answer[arr3] = arrContries[random3];
-            answer[arr2] = nameContries[idContry];
-            console.log({
-                id: idContry,
-                name: nameContries[idContry],
-                answer: answer,
-                correct: arr2
-            });
-        });
-    });
+    // fs.readdir(testFolder, (err, files) => {
+    //     files.forEach(file => {
+    //         var idContry = file.substring(0, file.indexOf('.')).toUpperCase()
+    //         // console.log("import " + idContry + " from '../assets/svg/" + file + "'");
+    //         // console.log(idContry + ',');
+    //         for(i = 0; i < arrRange.length; i++) {
+    //             min = arrRange[i][0];
+    //             max = arrRange[i][1];
+    //             var randomNumber = getRandomNumber(min, max);
+    //             if (i == 0) {
+    //                 random1 = randomNumber;
+    //             } else if (i == 1) {
+    //                 random2 = randomNumber;
+    //             } else {
+    //                 random3 = randomNumber;
+    //             }
+    //         }
+    //         let arr = [0,1,2,3];
+    //         let randomNumberArr = getRandomNumber(0, 3);
+    //         let arr0 = arr[randomNumberArr];
+    //         arr.splice(randomNumberArr, 1);
+    //         randomNumberArr = getRandomNumber(0, 2);
+    //         let arr1 = arr[randomNumberArr];
+    //         arr.splice(randomNumberArr, 1);
+    //         randomNumberArr = getRandomNumber(0, 1);
+    //         let arr2 = arr[randomNumberArr];
+    //         arr.splice(randomNumberArr, 1);
+    //         let arr3 = arr[0];
+    //         let answer = [];
+    //         answer[arr0] = arrContries[random1];
+    //         answer[arr1] = arrContries[random2];
+    //         answer[arr3] = arrContries[random3];
+    //         answer[arr2] = nameContries[idContry];
+    //         console.log({
+    //             id: idContry,
+    //             name: nameContries[idContry],
+    //             uri: '<' + 'Svgs.' + idContry + ' height={80} width={widthDimensions} />',
+    //             answer: answer,
+    //             correct: arr2
+    //         });
+    //         console.log(',')
+    //     });
+    // });
 }
 const server = http.createServer((req, res) => {
     test();

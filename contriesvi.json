@@ -1,0 +1,3038 @@
+[
+  {
+    "id": "AD",
+    "name": "Andorra",
+    "uri": "<Svgs.AD height={80} width={widthDimensions} />",
+    "answer": [
+      "Bỉ",
+      "New Caledonia",
+      "Andorra",
+      "Slovakia"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "AE",
+    "name": "Các tiểu vương quốc Ả Rập Thống nhất",
+    "uri": "<Svgs.AE height={80} width={widthDimensions} />",
+    "answer": [
+      "Mỹ (Hoa Kỳ)",
+      "Na Uy",
+      "Bangladesh",
+      "Các tiểu vương quốc Ả Rập Thống nhất"
+    ],
+    "correct": 3
+  },
+  {
+    "id": "AF",
+    "name": "Afghanistan",
+    "uri": "<Svgs.AF height={80} width={widthDimensions} />",
+    "answer": [
+      "Barbados",
+      "Gibraltar",
+      "Yemen",
+      "Afghanistan"
+    ],
+    "correct": 3
+  },
+  {
+    "id": "AG",
+    "name": "Antigua và Barbuda",
+    "uri": "<Svgs.AG height={80} width={widthDimensions} />",
+    "answer": [
+      "Paraguay",
+      "Antigua và Barbuda",
+      "Đức",
+      "Saint Lucia"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "AI",
+    "name": "Anguilla",
+    "uri": "<Svgs.AI height={80} width={widthDimensions} />",
+    "answer": [
+      "Iceland",
+      "Tuvalu",
+      "Angola",
+      "Anguilla"
+    ],
+    "correct": 3
+  },
+  {
+    "id": "AL",
+    "name": "Albania",
+    "uri": "<Svgs.AL height={80} width={widthDimensions} />",
+    "answer": [
+      "Albania",
+      "Uzbekistan",
+      "Bangladesh",
+      "Na Uy"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "AM",
+    "name": "Armenia",
+    "uri": "<Svgs.AM height={80} width={widthDimensions} />",
+    "answer": [
+      "Armenia",
+      "Đảo Bouvet",
+      "Hà Lan",
+      "Tuvalu"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "AO",
+    "name": "Angola",
+    "uri": "<Svgs.AO height={80} width={widthDimensions} />",
+    "answer": [
+      "Ba Lan",
+      "American Samoa",
+      "Angola",
+      "Triều Tiên"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "AQ",
+    "name": "Antarctica",
+    "uri": "<Svgs.AQ height={80} width={widthDimensions} />",
+    "answer": [
+      "Antarctica",
+      "Quần đảo Bắc Mariana",
+      "Ả Rập Xê Út",
+      "Brazil"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "AR",
+    "name": "Argentina",
+    "uri": "<Svgs.AR height={80} width={widthDimensions} />",
+    "answer": [
+      "Ecuador",
+      "Thành Vatican",
+      "Argentina",
+      "Guatemala"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "AS",
+    "name": "American Samoa",
+    "uri": "<Svgs.AS height={80} width={widthDimensions} />",
+    "answer": [
+      "Đảo Bouvet",
+      "Madagascar",
+      "American Samoa",
+      "Đông Timor"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "AT",
+    "name": "Áo",
+    "uri": "<Svgs.AT height={80} width={widthDimensions} />",
+    "answer": [
+      "Áo",
+      "Lesotho",
+      "Cộng hòa Dominica",
+      "Papua New Guinea"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "AU",
+    "name": "Úc",
+    "uri": "<Svgs.AU height={80} width={widthDimensions} />",
+    "answer": [
+      "Niger",
+      "Uganda",
+      "Các tiểu vương quốc Ả Rập Thống nhất",
+      "Úc"
+    ],
+    "correct": 3
+  },
+  {
+    "id": "AW",
+    "name": "Aruba",
+    "uri": "<Svgs.AW height={80} width={widthDimensions} />",
+    "answer": [
+      "Martinique",
+      "Aruba",
+      "Sint Maarten",
+      "Scotland"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "AX",
+    "name": "Åland Islands",
+    "uri": "<Svgs.AX height={80} width={widthDimensions} />",
+    "answer": [
+      "Uzbekistan",
+      "Quần đảo Åland",
+      "Hy Lạp",
+      "Fiji"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "AZ",
+    "name": "Azerbaijan",
+    "uri": "<Svgs.AZ height={80} width={widthDimensions} />",
+    "answer": [
+      "Scotland",
+      "Quần đảo Svalbard và Jan Mayen",
+      "Azerbaijan",
+      "Kyrgyzstan"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "BA",
+    "name": "Bosnia và Herzegovina",
+    "uri": "<Svgs.BA height={80} width={widthDimensions} />",
+    "answer": [
+      "Bosnia và Herzegovina",
+      "Tanzania",
+      "Costa Rica",
+      "Ma-rốc"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "BB",
+    "name": "Barbados",
+    "uri": "<Svgs.BB height={80} width={widthDimensions} />",
+    "answer": [
+      "Barbados",
+      "Qatar",
+      "Azerbaijan",
+      "Guinea-Bissau"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "BD",
+    "name": "Bangladesh",
+    "uri": "<Svgs.BD height={80} width={widthDimensions} />",
+    "answer": [
+      "Gibraltar",
+      "Albania",
+      "Rwanda",
+      "Bangladesh"
+    ],
+    "correct": 3
+  },
+  {
+    "id": "BE",
+    "name": "Bỉ",
+    "uri": "<Svgs.BE height={80} width={widthDimensions} />",
+    "answer": [
+      "Bỉ",
+      "Canada",
+      "Uganda",
+      "Saint Kitts và Nevis"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "BF",
+    "name": "Burkina Faso",
+    "uri": "<Svgs.BF height={80} width={widthDimensions} />",
+    "answer": [
+      "Indonesia",
+      "Benin",
+      "Burkina Faso",
+      "Kosovo"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "BG",
+    "name": "Bulgaria",
+    "uri": "<Svgs.BG height={80} width={widthDimensions} />",
+    "answer": [
+      "Guam",
+      "Trung Quốc",
+      "Bulgaria",
+      "Pitcairn"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "BH",
+    "name": "Bahrain",
+    "uri": "<Svgs.BH height={80} width={widthDimensions} />",
+    "answer": [
+      "Bahrain",
+      "Malta",
+      "Quần đảo Virgin",
+      "Phần Lan"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "BI",
+    "name": "Burundi",
+    "uri": "<Svgs.BI height={80} width={widthDimensions} />",
+    "answer": [
+      "Mali",
+      "Burundi",
+      "Vanuatu",
+      "Belize"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "BJ",
+    "name": "Benin",
+    "uri": "<Svgs.BJ height={80} width={widthDimensions} />",
+    "answer": [
+      "Thành Vatican",
+      "Niger",
+      "Benin",
+      "Hà Lan"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "BL",
+    "name": "Saint Barthélemy",
+    "uri": "<Svgs.BL height={80} width={widthDimensions} />",
+    "answer": [
+      "Saint Barthélemy",
+      "Bangladesh",
+      "Kazakhstan",
+      "Trinidad và Tobago"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "BM",
+    "name": "Bermuda",
+    "uri": "<Svgs.BM height={80} width={widthDimensions} />",
+    "answer": [
+      "Bermuda",
+      "Tây Sahara",
+      "São Tomé và Príncipe",
+      "Guinea-Bissau"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "BN",
+    "name": "Brunei Darussalam",
+    "uri": "<Svgs.BN height={80} width={widthDimensions} />",
+    "answer": [
+      "Romania",
+      "Nicaragua",
+      "Belize",
+      "Brunei Darussalam"
+    ],
+    "correct": 3
+  },
+  {
+    "id": "BO",
+    "name": "Bolivia",
+    "uri": "<Svgs.BO height={80} width={widthDimensions} />",
+    "answer": [
+      "Liechtenstein",
+      "Argentina",
+      "Pitcairn",
+      "Bolivia"
+    ],
+    "correct": 3
+  },
+  {
+    "id": "BR",
+    "name": "Brazil",
+    "uri": "<Svgs.BR height={80} width={widthDimensions} />",
+    "answer": [
+      "Belize",
+      "Brazil",
+      "Qatar",
+      "Hồng Kông"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "BS",
+    "name": "Bahamas",
+    "uri": "<Svgs.BS height={80} width={widthDimensions} />",
+    "answer": [
+      "Sudan",
+      "Namibia",
+      "Ecuador",
+      "Bahamas"
+    ],
+    "correct": 3
+  },
+  {
+    "id": "BT",
+    "name": "Bhutan",
+    "uri": "<Svgs.BT height={80} width={widthDimensions} />",
+    "answer": [
+      "Portugal",
+      "Afghanistan",
+      "Macao",
+      "Bhutan"
+    ],
+    "correct": 3
+  },
+  {
+    "id": "BV",
+    "name": "Đảo Bouvet",
+    "uri": "<Svgs.BV height={80} width={widthDimensions} />",
+    "answer": [
+      "Zambia",
+      "Li-băng",
+      "Đảo Bouvet",
+      "Micronesia"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "BW",
+    "name": "Botswana",
+    "uri": "<Svgs.BW height={80} width={widthDimensions} />",
+    "answer": [
+      "Papua New Guinea",
+      "New Caledonia",
+      "Botswana",
+      "Trung Quốc"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "BY",
+    "name": "Belarus",
+    "uri": "<Svgs.BY height={80} width={widthDimensions} />",
+    "answer": [
+      "Kuwait",
+      "Belarus",
+      "Áo",
+      "Ả Rập Xê Út"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "BZ",
+    "name": "Belize",
+    "uri": "<Svgs.BZ height={80} width={widthDimensions} />",
+    "answer": [
+      "Belize",
+      "Quần đảo Cocos",
+      "Turkmenistan",
+      "Equatorial Guinea"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "CA",
+    "name": "Canada",
+    "uri": "<Svgs.CA height={80} width={widthDimensions} />",
+    "answer": [
+      "Canada",
+      "Bermuda",
+      "Quần đảo Svalbard và Jan Mayen",
+      "Lithuania"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "CC",
+    "name": "Quần đảo Cocos",
+    "uri": "<Svgs.CC height={80} width={widthDimensions} />",
+    "answer": [
+      "Mauritius",
+      "French Southern Territories",
+      "Albania",
+      "Quần đảo Cocos"
+    ],
+    "correct": 3
+  },
+  {
+    "id": "CD",
+    "name": "Congo, the Democratic Republic of the",
+    "uri": "<Svgs.CD height={80} width={widthDimensions} />",
+    "answer": [
+      "Quần đảo Virgin",
+      "Fiji",
+      "Congo, the Democratic Republic of the",
+      "Norfolk Island"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "CF",
+    "name": "Cộng hòa Trung Phi",
+    "uri": "<Svgs.CF height={80} width={widthDimensions} />",
+    "answer": [
+      "Thụy Sỹ",
+      "Panama",
+      "Guyana",
+      "Cộng hòa Trung Phi"
+    ],
+    "correct": 3
+  },
+  {
+    "id": "CG",
+    "name": "Republic of the Congo",
+    "uri": "<Svgs.CG height={80} width={widthDimensions} />",
+    "answer": [
+      "Republic of the Congo",
+      "Lãnh thổ Đảo Christmas",
+      "Slovakia",
+      "Namibia"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "CH",
+    "name": "Thụy Sỹ",
+    "uri": "<Svgs.CH height={80} width={widthDimensions} />",
+    "answer": [
+      "Honduras",
+      "Bhutan",
+      "Thụy Sỹ",
+      "Quần đảo Virgin"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "CI",
+    "name": "Côte dIvoire",
+    "uri": "<Svgs.CI height={80} width={widthDimensions} />",
+    "answer": [
+      "Côte dIvoire",
+      "Cameroon",
+      "Đài Loan",
+      "Mali"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "CK",
+    "name": "Cook Islands",
+    "uri": "<Svgs.CK height={80} width={widthDimensions} />",
+    "answer": [
+      "Cook Islands",
+      "São Tomé và Príncipe",
+      "Phần Lan",
+      "Guadeloupe"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "CL",
+    "name": "Chile",
+    "uri": "<Svgs.CL height={80} width={widthDimensions} />",
+    "answer": [
+      "Quần đảo Cocos",
+      "Latvia",
+      "Sudan",
+      "Chile"
+    ],
+    "correct": 3
+  },
+  {
+    "id": "CM",
+    "name": "Cameroon",
+    "uri": "<Svgs.CM height={80} width={widthDimensions} />",
+    "answer": [
+      "Qatar",
+      "Cameroon",
+      "Quần đảo Cocos",
+      "Equatorial Guinea"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "CN",
+    "name": "Trung Quốc",
+    "uri": "<Svgs.CN height={80} width={widthDimensions} />",
+    "answer": [
+      "Trung Quốc",
+      "Úc",
+      "Venezuela",
+      "Mauritania"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "CO",
+    "name": "Colombia",
+    "uri": "<Svgs.CO height={80} width={widthDimensions} />",
+    "answer": [
+      "Colombia",
+      "Việt Nam",
+      "Equatorial Guinea",
+      "Bulgaria"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "CR",
+    "name": "Costa Rica",
+    "uri": "<Svgs.CR height={80} width={widthDimensions} />",
+    "answer": [
+      "Kyrgyzstan",
+      "Paraguay",
+      "Costa Rica",
+      "Quần đảo Cocos"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "CU",
+    "name": "Cuba",
+    "uri": "<Svgs.CU height={80} width={widthDimensions} />",
+    "answer": [
+      "Brazil",
+      "Ấn Độ",
+      "Turkmenistan",
+      "Cuba"
+    ],
+    "correct": 3
+  },
+  {
+    "id": "CV",
+    "name": "Cape Verde",
+    "uri": "<Svgs.CV height={80} width={widthDimensions} />",
+    "answer": [
+      "Cape Verde",
+      "Madagascar",
+      "Bulgaria",
+      "Oman"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "CW",
+    "name": "Curaçao",
+    "uri": "<Svgs.CW height={80} width={widthDimensions} />",
+    "answer": [
+      "Curaçao",
+      "Guadeloupe",
+      "Mỹ (Hoa Kỳ)",
+      "Azerbaijan"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "CX",
+    "name": "Lãnh thổ Đảo Christmas",
+    "uri": "<Svgs.CX height={80} width={widthDimensions} />",
+    "answer": [
+      "Panama",
+      "Grenada",
+      "Quần đảo Cayman",
+      "Lãnh thổ Đảo Christmas"
+    ],
+    "correct": 3
+  },
+  {
+    "id": "CY",
+    "name": "Đảo Síp",
+    "uri": "<Svgs.CY height={80} width={widthDimensions} />",
+    "answer": [
+      "Ukraine",
+      "Liberia",
+      "Bhutan",
+      "Đảo Síp"
+    ],
+    "correct": 3
+  },
+  {
+    "id": "CZ",
+    "name": "Czech Republic",
+    "uri": "<Svgs.CZ height={80} width={widthDimensions} />",
+    "answer": [
+      "Czech Republic",
+      "Đảo Heard và quần đảo McDonald",
+      "Anh",
+      "Qatar"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "DE",
+    "name": "Đức",
+    "uri": "<Svgs.DE height={80} width={widthDimensions} />",
+    "answer": [
+      "Belarus",
+      "Quần đảo Turks và Caicos",
+      "Đức",
+      "Mexico"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "DJ",
+    "name": "Djibouti",
+    "uri": "<Svgs.DJ height={80} width={widthDimensions} />",
+    "answer": [
+      "Pitcairn",
+      "Dominica",
+      "Guatemala",
+      "Djibouti"
+    ],
+    "correct": 3
+  },
+  {
+    "id": "DK",
+    "name": "Denmark",
+    "uri": "<Svgs.DK height={80} width={widthDimensions} />",
+    "answer": [
+      "Antarctica",
+      "Denmark",
+      "Li-băng",
+      "Paraguay"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "DM",
+    "name": "Dominica",
+    "uri": "<Svgs.DM height={80} width={widthDimensions} />",
+    "answer": [
+      "Åland Islands",
+      "Tanzania",
+      "Quần đảo Bắc Mariana",
+      "Dominica"
+    ],
+    "correct": 3
+  },
+  {
+    "id": "DO",
+    "name": "Cộng hòa Dominica",
+    "uri": "<Svgs.DO height={80} width={widthDimensions} />",
+    "answer": [
+      "Campuchia",
+      "Cuba",
+      "Cộng hòa Dominica",
+      "São Tomé và Príncipe"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "DZ",
+    "name": "Algeria",
+    "uri": "<Svgs.DZ height={80} width={widthDimensions} />",
+    "answer": [
+      "Cộng hòa Trung Phi",
+      "Algeria",
+      "Sudan",
+      "Kiribati"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "EC",
+    "name": "Ecuador",
+    "uri": "<Svgs.EC height={80} width={widthDimensions} />",
+    "answer": [
+      "Ecuador",
+      "Kuwait",
+      "Tanzania",
+      "Saint Vincent và Grenadines"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "EE",
+    "name": "Estonia",
+    "uri": "<Svgs.EE height={80} width={widthDimensions} />",
+    "answer": [
+      "Guyane thuộc Pháp",
+      "Estonia",
+      "Lào",
+      "Slovenia"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "EG",
+    "name": "Egypt",
+    "uri": "<Svgs.EG height={80} width={widthDimensions} />",
+    "answer": [
+      "Egypt",
+      "Monaco",
+      "Trinidad và Tobago",
+      "Egypt"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "EH",
+    "name": "Tây Sahara",
+    "uri": "<Svgs.EH height={80} width={widthDimensions} />",
+    "answer": [
+      "Tây Sahara",
+      "Tanzania",
+      "Bhutan",
+      "Ma-rốc"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "ER",
+    "name": "Eritrea",
+    "uri": "<Svgs.ER height={80} width={widthDimensions} />",
+    "answer": [
+      "Eritrea",
+      "Hungary",
+      "Serbia",
+      "Hà Lan"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "ES",
+    "name": "Tây Ban Nha",
+    "uri": "<Svgs.ES height={80} width={widthDimensions} />",
+    "answer": [
+      "Lãnh thổ Đảo Christmas",
+      "Tây Ban Nha",
+      "Somalia",
+      "Italy"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "ET",
+    "name": "Ethiopia",
+    "uri": "<Svgs.ET height={80} width={widthDimensions} />",
+    "answer": [
+      "Saint Barthélemy",
+      "Kuwait",
+      "Ethiopia",
+      "Việt Nam"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "EU",
+    "name": "Liên minh châu Âu",
+    "uri": "<Svgs.EU height={80} width={widthDimensions} />",
+    "answer": [
+      "Quần đảo Solomon",
+      "Liên minh châu Âu",
+      "Iraq",
+      "Chile"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "FI",
+    "name": "Phần Lan",
+    "uri": "<Svgs.FI height={80} width={widthDimensions} />",
+    "answer": [
+      "Egypt",
+      "Quần đảo Svalbard và Jan Mayen",
+      "Saint Martin",
+      "Phần Lan"
+    ],
+    "correct": 3
+  },
+  {
+    "id": "FJ",
+    "name": "Fiji",
+    "uri": "<Svgs.FJ height={80} width={widthDimensions} />",
+    "answer": [
+      "Namibia",
+      "Zimbabwe",
+      "Antigua và Barbuda",
+      "Fiji"
+    ],
+    "correct": 3
+  },
+  {
+    "id": "FK",
+    "name": "Quần đảo Falkland",
+    "uri": "<Svgs.FK height={80} width={widthDimensions} />",
+    "answer": [
+      "Quần đảo Falkland",
+      "Mauritania",
+      "Lãnh thổ Đảo Christmas",
+      "Papua New Guinea"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "FM",
+    "name": "Micronesia",
+    "uri": "<Svgs.FM height={80} width={widthDimensions} />",
+    "answer": [
+      "Micronesia",
+      "Quần đảo Solomon",
+      "Pháp",
+      "Lesotho"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "FO",
+    "name": "Quần đảo Faroe",
+    "uri": "<Svgs.FO height={80} width={widthDimensions} />",
+    "answer": [
+      "Azerbaijan",
+      "Pakistan",
+      "Quần đảo Faroe",
+      "Mali"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "FR",
+    "name": "Pháp",
+    "uri": "<Svgs.FR height={80} width={widthDimensions} />",
+    "answer": [
+      "Benin",
+      "Tây Ban Nha",
+      "Pháp",
+      "Lesotho"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "GA",
+    "name": "Gabon",
+    "uri": "<Svgs.GA height={80} width={widthDimensions} />",
+    "answer": [
+      "Lãnh thổ Anh tại Ấn Độ Dương",
+      "Burundi",
+      "Chad",
+      "Gabon"
+    ],
+    "correct": 3
+  },
+  {
+    "id": "GB-ENG",
+    "name": "Anh",
+    "uri": "<Svgs.GB_ENG height={80} width={widthDimensions} />",
+    "answer": [
+      "Tây Ban Nha",
+      "Anh",
+      "Montenegro",
+      "Peru"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "GB-NIR",
+    "name": "Bắc Ireland ",
+    "uri": "<Svgs.GB_NIR height={80} width={widthDimensions} />",
+    "answer": [
+      "Hàn Quốc",
+      "Sint Maarten",
+      "Angola",
+      "Bắc Ireland "
+    ],
+    "correct": 3
+  },
+  {
+    "id": "GB-SCT",
+    "name": "Scotland",
+    "uri": "<Svgs.GB_SCT height={80} width={widthDimensions} />",
+    "answer": [
+      "Li-băng",
+      "Scotland",
+      "Ethiopia",
+      "Vanuatu"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "GB-WLS",
+    "name": "Wales",
+    "uri": "<Svgs.GB_WLS height={80} width={widthDimensions} />",
+    "answer": [
+      "Wales",
+      "Georgia",
+      "Senegal",
+      "Hungary"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "GB",
+    "name": "Vương quốc Anh",
+    "uri": "<Svgs.GB height={80} width={widthDimensions} />",
+    "answer": [
+      "Vương quốc Anh",
+      "Lãnh thổ Đảo Christmas",
+      "Comoros",
+      "Polynésie thuộc Pháp"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "GD",
+    "name": "Grenada",
+    "uri": "<Svgs.GD height={80} width={widthDimensions} />",
+    "answer": [
+      "Pháp",
+      "Grenada",
+      "Syria",
+      "Malaysia"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "GE",
+    "name": "Georgia",
+    "uri": "<Svgs.GE height={80} width={widthDimensions} />",
+    "answer": [
+      "Thụy Điển",
+      "Georgia",
+      "Canada",
+      "Guadeloupe"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "GF",
+    "name": "Guyane thuộc Pháp",
+    "uri": "<Svgs.GF height={80} width={widthDimensions} />",
+    "answer": [
+      "Ethiopia",
+      "Nhật Bản",
+      "Guyane thuộc Pháp",
+      "Ba Lan"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "GG",
+    "name": "Guernsey",
+    "uri": "<Svgs.GG height={80} width={widthDimensions} />",
+    "answer": [
+      "Kyrgyzstan",
+      "Denmark",
+      "Swaziland",
+      "Guernsey"
+    ],
+    "correct": 3
+  },
+  {
+    "id": "GH",
+    "name": "Ghana",
+    "uri": "<Svgs.GH height={80} width={widthDimensions} />",
+    "answer": [
+      "Bulgaria",
+      "Namibia",
+      "Ghana",
+      "Tonga"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "GI",
+    "name": "Gibraltar",
+    "uri": "<Svgs.GI height={80} width={widthDimensions} />",
+    "answer": [
+      "Gibraltar",
+      "New Caledonia",
+      "Sudan",
+      "Hà Lan"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "GL",
+    "name": "Greenland",
+    "uri": "<Svgs.GL height={80} width={widthDimensions} />",
+    "answer": [
+      "Scotland",
+      "Guadeloupe",
+      "Greenland",
+      "Uruguay"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "GM",
+    "name": "Gambia",
+    "uri": "<Svgs.GM height={80} width={widthDimensions} />",
+    "answer": [
+      "Grenada",
+      "Quần đảo Virgin",
+      "Gambia",
+      "Comoros"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "GN",
+    "name": "Guinea",
+    "uri": "<Svgs.GN height={80} width={widthDimensions} />",
+    "answer": [
+      "Martinique",
+      "Guinea",
+      "Brazil",
+      "Tunisia"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "GP",
+    "name": "Guadeloupe",
+    "uri": "<Svgs.GP height={80} width={widthDimensions} />",
+    "answer": [
+      "Kazakhstan",
+      "Đài Loan",
+      "Guadeloupe",
+      "Andorra"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "GQ",
+    "name": "Equatorial Guinea",
+    "uri": "<Svgs.GQ height={80} width={widthDimensions} />",
+    "answer": [
+      "Italy",
+      "Philippines",
+      "Egypt",
+      "Equatorial Guinea"
+    ],
+    "correct": 3
+  },
+  {
+    "id": "GR",
+    "name": "Hy Lạp",
+    "uri": "<Svgs.GR height={80} width={widthDimensions} />",
+    "answer": [
+      "Cộng hòa Dominica",
+      "Saint Helena, Ascension và Tristan da Cunha",
+      "Lãnh thổ Anh tại Ấn Độ Dương",
+      "Hy Lạp"
+    ],
+    "correct": 3
+  },
+  {
+    "id": "GS",
+    "name": "Nam Georgia và Quần đảo Nam Sandwich",
+    "uri": "<Svgs.GS height={80} width={widthDimensions} />",
+    "answer": [
+      "Việt Nam",
+      "Nam Georgia và Quần đảo Nam Sandwich",
+      "Tây Ban Nha",
+      "Myanmar"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "GT",
+    "name": "Guatemala",
+    "uri": "<Svgs.GT height={80} width={widthDimensions} />",
+    "answer": [
+      "Guatemala",
+      "Israel",
+      "Quần đảo Solomon",
+      "Thụy Sỹ"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "GU",
+    "name": "Guam",
+    "uri": "<Svgs.GU height={80} width={widthDimensions} />",
+    "answer": [
+      "Guam",
+      "Seychelles",
+      "Bắc Ireland ",
+      "Israel"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "GW",
+    "name": "Guinea-Bissau",
+    "uri": "<Svgs.GW height={80} width={widthDimensions} />",
+    "answer": [
+      "Sri Lanka",
+      "Syria",
+      "Guinea-Bissau",
+      "Georgia"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "GY",
+    "name": "Guyana",
+    "uri": "<Svgs.GY height={80} width={widthDimensions} />",
+    "answer": [
+      "Triều Tiên",
+      "Tajikistan",
+      "Guyana",
+      "Antarctica"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "HK",
+    "name": "Hồng Kông",
+    "uri": "<Svgs.HK height={80} width={widthDimensions} />",
+    "answer": [
+      "Saint Vincent và Grenadines",
+      "Quần đảo Bắc Mariana",
+      "Antarctica",
+      "Hồng Kông"
+    ],
+    "correct": 3
+  },
+  {
+    "id": "HM",
+    "name": "Đảo Heard và quần đảo McDonald",
+    "uri": "<Svgs.HM height={80} width={widthDimensions} />",
+    "answer": [
+      "Đảo Heard và quần đảo McDonald",
+      "Sierra Leone",
+      "Croatia",
+      "Ecuador"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "HN",
+    "name": "Honduras",
+    "uri": "<Svgs.HN height={80} width={widthDimensions} />",
+    "answer": [
+      "Honduras",
+      "Bosnia và Herzegovina",
+      "Zambia",
+      "Myanmar"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "HR",
+    "name": "Croatia",
+    "uri": "<Svgs.HR height={80} width={widthDimensions} />",
+    "answer": [
+      "Polynésie thuộc Pháp",
+      "Benin",
+      "Croatia",
+      "Jordan"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "HT",
+    "name": "Haiti",
+    "uri": "<Svgs.HT height={80} width={widthDimensions} />",
+    "answer": [
+      "Anh",
+      "Saint Martin",
+      "Haiti",
+      "Mỹ"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "HU",
+    "name": "Hungary",
+    "uri": "<Svgs.HU height={80} width={widthDimensions} />",
+    "answer": [
+      "Hungary",
+      "Montserrat",
+      "Quần đảo Cocos",
+      "Réunion"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "ID",
+    "name": "Indonesia",
+    "uri": "<Svgs.ID height={80} width={widthDimensions} />",
+    "answer": [
+      "New Zealand",
+      "Cộng hòa Trung Phi",
+      "Ghana",
+      "Indonesia"
+    ],
+    "correct": 3
+  },
+  {
+    "id": "IE",
+    "name": "Ireland",
+    "uri": "<Svgs.IE height={80} width={widthDimensions} />",
+    "answer": [
+      "Ireland",
+      "Moldova",
+      "Fiji",
+      "Niue"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "IL",
+    "name": "Israel",
+    "uri": "<Svgs.IL height={80} width={widthDimensions} />",
+    "answer": [
+      "Israel",
+      "Greenland",
+      "Algeria",
+      "Thụy Điển"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "IM",
+    "name": "Isle of Man",
+    "uri": "<Svgs.IM height={80} width={widthDimensions} />",
+    "answer": [
+      "Scotland",
+      "Isle of Man",
+      "Indonesia",
+      "Sint Maarten"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "IN",
+    "name": "Ấn Độ",
+    "uri": "<Svgs.IN height={80} width={widthDimensions} />",
+    "answer": [
+      "Ấn Độ",
+      "Nhật Bản",
+      "Quần đảo Faroe",
+      "Paraguay"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "IO",
+    "name": "Lãnh thổ Anh tại Ấn Độ Dương",
+    "uri": "<Svgs.IO height={80} width={widthDimensions} />",
+    "answer": [
+      "Georgia",
+      "Lãnh thổ Anh tại Ấn Độ Dương",
+      "Serbia",
+      "Na Uy"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "IQ",
+    "name": "Iraq",
+    "uri": "<Svgs.IQ height={80} width={widthDimensions} />",
+    "answer": [
+      "Armenia",
+      "Réunion",
+      "Iraq",
+      "Myanmar"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "IR",
+    "name": "Iran",
+    "uri": "<Svgs.IR height={80} width={widthDimensions} />",
+    "answer": [
+      "Palau",
+      "Lithuania",
+      "Georgia",
+      "Iran"
+    ],
+    "correct": 3
+  },
+  {
+    "id": "IS",
+    "name": "Iceland",
+    "uri": "<Svgs.IS height={80} width={widthDimensions} />",
+    "answer": [
+      "Iceland",
+      "Papua New Guinea",
+      "Guyane thuộc Pháp",
+      "Guinea-Bissau"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "IT",
+    "name": "Italy",
+    "uri": "<Svgs.IT height={80} width={widthDimensions} />",
+    "answer": [
+      "Nga",
+      "Italy",
+      "Sri Lanka",
+      "Cộng hòa Dominica"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "JE",
+    "name": "Jersey",
+    "uri": "<Svgs.JE height={80} width={widthDimensions} />",
+    "answer": [
+      "Anguilla",
+      "Nigeria",
+      "Jersey",
+      "Thổ Nhĩ Kỳ"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "JM",
+    "name": "Jamaica",
+    "uri": "<Svgs.JM height={80} width={widthDimensions} />",
+    "answer": [
+      "Quần đảo Faroe",
+      "Wallis và Futuna Islands",
+      "Nam Georgia và Quần đảo Nam Sandwich",
+      "Jamaica"
+    ],
+    "correct": 3
+  },
+  {
+    "id": "JO",
+    "name": "Jordan",
+    "uri": "<Svgs.JO height={80} width={widthDimensions} />",
+    "answer": [
+      "Mali",
+      "Jordan",
+      "Micronesia",
+      "Zimbabwe"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "JP",
+    "name": "Nhật Bản",
+    "uri": "<Svgs.JP height={80} width={widthDimensions} />",
+    "answer": [
+      "Bahamas",
+      "Monaco",
+      "Nhật Bản",
+      "Syria"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "KE",
+    "name": "Kenya",
+    "uri": "<Svgs.KE height={80} width={widthDimensions} />",
+    "answer": [
+      "Kuwait",
+      "Tây Sahara",
+      "Kenya",
+      "Sierra Leone"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "KG",
+    "name": "Kyrgyzstan",
+    "uri": "<Svgs.KG height={80} width={widthDimensions} />",
+    "answer": [
+      "Campuchia",
+      "Bermuda",
+      "Kyrgyzstan",
+      "Kazakhstan"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "KH",
+    "name": "Campuchia",
+    "uri": "<Svgs.KH height={80} width={widthDimensions} />",
+    "answer": [
+      "Jamaica",
+      "Campuchia",
+      "Mỹ",
+      "Barbados"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "KI",
+    "name": "Kiribati",
+    "uri": "<Svgs.KI height={80} width={widthDimensions} />",
+    "answer": [
+      "Syria",
+      "Kiribati",
+      "Macao",
+      "Dominica"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "KM",
+    "name": "Comoros",
+    "uri": "<Svgs.KM height={80} width={widthDimensions} />",
+    "answer": [
+      "Sudan",
+      "Triều Tiên",
+      "Colombia",
+      "Comoros"
+    ],
+    "correct": 3
+  },
+  {
+    "id": "KN",
+    "name": "Saint Kitts và Nevis",
+    "uri": "<Svgs.KN height={80} width={widthDimensions} />",
+    "answer": [
+      "Đức",
+      "Saint Kitts và Nevis",
+      "Kiribati",
+      "Ukraine"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "KP",
+    "name": "Triều Tiên",
+    "uri": "<Svgs.KP height={80} width={widthDimensions} />",
+    "answer": [
+      "Triều Tiên",
+      "Pitcairn",
+      "Luxembourg",
+      "Anh"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "KR",
+    "name": "Hàn Quốc",
+    "uri": "<Svgs.KR height={80} width={widthDimensions} />",
+    "answer": [
+      "Uzbekistan",
+      "Moldova",
+      "Tây Ban Nha",
+      "Hàn Quốc"
+    ],
+    "correct": 3
+  },
+  {
+    "id": "KW",
+    "name": "Kuwait",
+    "uri": "<Svgs.KW height={80} width={widthDimensions} />",
+    "answer": [
+      "Seychelles",
+      "Kuwait",
+      "Mauritania",
+      "Fiji"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "KY",
+    "name": "Quần đảo Cayman",
+    "uri": "<Svgs.KY height={80} width={widthDimensions} />",
+    "answer": [
+      "Quần đảo Faroe",
+      "Thailand",
+      "Iran",
+      "Quần đảo Cayman"
+    ],
+    "correct": 3
+  },
+  {
+    "id": "KZ",
+    "name": "Kazakhstan",
+    "uri": "<Svgs.KZ height={80} width={widthDimensions} />",
+    "answer": [
+      "Costa Rica",
+      "Kazakhstan",
+      "Quần đảo Virgin",
+      "Malawi"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "LA",
+    "name": "Lào",
+    "uri": "<Svgs.LA height={80} width={widthDimensions} />",
+    "answer": [
+      "Lào",
+      "Venezuela",
+      "Aruba",
+      "Martinique"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "LB",
+    "name": "Li-băng",
+    "uri": "<Svgs.LB height={80} width={widthDimensions} />",
+    "answer": [
+      "Mexico",
+      "Saint Pierre và Miquelon",
+      "Li-băng",
+      "Pháp"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "LC",
+    "name": "Saint Lucia",
+    "uri": "<Svgs.LC height={80} width={widthDimensions} />",
+    "answer": [
+      "Saint Lucia",
+      "Moldova",
+      "Saint Pierre và Miquelon",
+      "Belarus"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "LI",
+    "name": "Liechtenstein",
+    "uri": "<Svgs.LI height={80} width={widthDimensions} />",
+    "answer": [
+      "Isle of Man",
+      "Nga",
+      "Bangladesh",
+      "Liechtenstein"
+    ],
+    "correct": 3
+  },
+  {
+    "id": "LK",
+    "name": "Sri Lanka",
+    "uri": "<Svgs.LK height={80} width={widthDimensions} />",
+    "answer": [
+      "Bhutan",
+      "Sri Lanka",
+      "Liberia",
+      "Somalia"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "LR",
+    "name": "Liberia",
+    "uri": "<Svgs.LR height={80} width={widthDimensions} />",
+    "answer": [
+      "Phần Lan",
+      "Mauritius",
+      "Liberia",
+      "Tokelau"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "LS",
+    "name": "Lesotho",
+    "uri": "<Svgs.LS height={80} width={widthDimensions} />",
+    "answer": [
+      "Lesotho",
+      "Moldova",
+      "Denmark",
+      "Palau"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "LT",
+    "name": "Lithuania",
+    "uri": "<Svgs.LT height={80} width={widthDimensions} />",
+    "answer": [
+      "Saint Helena, Ascension và Tristan da Cunha",
+      "Burkina Faso",
+      "Malta",
+      "Lithuania"
+    ],
+    "correct": 3
+  },
+  {
+    "id": "LU",
+    "name": "Luxembourg",
+    "uri": "<Svgs.LU height={80} width={widthDimensions} />",
+    "answer": [
+      "Italy",
+      "Luxembourg",
+      "Congo, the Democratic Republic of the",
+      "Quần đảo Turks và Caicos"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "LV",
+    "name": "Latvia",
+    "uri": "<Svgs.LV height={80} width={widthDimensions} />",
+    "answer": [
+      "Chile",
+      "Latvia",
+      "Liechtenstein",
+      "Palestine"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "LY",
+    "name": "Libya",
+    "uri": "<Svgs.LY height={80} width={widthDimensions} />",
+    "answer": [
+      "New Caledonia",
+      "Libya",
+      "Nam Phi",
+      "Đảo Síp"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "MA",
+    "name": "Ma-rốc",
+    "uri": "<Svgs.MA height={80} width={widthDimensions} />",
+    "answer": [
+      "Đài Loan",
+      "Wales",
+      "Equatorial Guinea",
+      "Ma-rốc"
+    ],
+    "correct": 3
+  },
+  {
+    "id": "MC",
+    "name": "Monaco",
+    "uri": "<Svgs.MC height={80} width={widthDimensions} />",
+    "answer": [
+      "Saint Vincent và Grenadines",
+      "Albania",
+      "Montserrat",
+      "Monaco"
+    ],
+    "correct": 3
+  },
+  {
+    "id": "MD",
+    "name": "Moldova",
+    "uri": "<Svgs.MD height={80} width={widthDimensions} />",
+    "answer": [
+      "Moldova",
+      "Honduras",
+      "Úc",
+      "Saint Helena, Ascension và Tristan da Cunha"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "ME",
+    "name": "Montenegro",
+    "uri": "<Svgs.ME height={80} width={widthDimensions} />",
+    "answer": [
+      "Montenegro",
+      "South Sudan",
+      "Iraq",
+      "Bosnia và Herzegovina"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "MF",
+    "name": "Saint Martin",
+    "uri": "<Svgs.MF height={80} width={widthDimensions} />",
+    "answer": [
+      "Brazil",
+      "Hàn Quốc",
+      "Turkmenistan",
+      "Saint Martin"
+    ],
+    "correct": 3
+  },
+  {
+    "id": "MG",
+    "name": "Madagascar",
+    "uri": "<Svgs.MG height={80} width={widthDimensions} />",
+    "answer": [
+      "Réunion",
+      "Madagascar",
+      "Libya",
+      "Antigua và Barbuda"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "MH",
+    "name": "Marshall Islands",
+    "uri": "<Svgs.MH height={80} width={widthDimensions} />",
+    "answer": [
+      "Saint Pierre và Miquelon",
+      "Marshall Islands",
+      "Guyana",
+      "Djibouti"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "MK",
+    "name": "North Macedonia",
+    "uri": "<Svgs.MK height={80} width={widthDimensions} />",
+    "answer": [
+      "Paraguay",
+      "Iran",
+      "Djibouti",
+      "North Macedonia"
+    ],
+    "correct": 3
+  },
+  {
+    "id": "ML",
+    "name": "Mali",
+    "uri": "<Svgs.ML height={80} width={widthDimensions} />",
+    "answer": [
+      "Curaçao",
+      "Mali",
+      "Quần đảo Bắc Mariana",
+      "Réunion"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "MM",
+    "name": "Myanmar",
+    "uri": "<Svgs.MM height={80} width={widthDimensions} />",
+    "answer": [
+      "Myanmar",
+      "Kenya",
+      "Đức",
+      "Ả Rập Xê Út"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "MN",
+    "name": "Mongolia",
+    "uri": "<Svgs.MN height={80} width={widthDimensions} />",
+    "answer": [
+      "Belize",
+      "Greenland",
+      "Nepal",
+      "Mongolia"
+    ],
+    "correct": 3
+  },
+  {
+    "id": "MO",
+    "name": "Macao",
+    "uri": "<Svgs.MO height={80} width={widthDimensions} />",
+    "answer": [
+      "Macao",
+      "Bermuda",
+      "Indonesia",
+      "Uruguay"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "MP",
+    "name": "Quần đảo Bắc Mariana",
+    "uri": "<Svgs.MP height={80} width={widthDimensions} />",
+    "answer": [
+      "Quần đảo Bắc Mariana",
+      "Saint Kitts và Nevis",
+      "Egypt",
+      "Somalia"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "MQ",
+    "name": "Martinique",
+    "uri": "<Svgs.MQ height={80} width={widthDimensions} />",
+    "answer": [
+      "Martinique",
+      "Mexico",
+      "Philippines",
+      "Algeria"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "MR",
+    "name": "Mauritania",
+    "uri": "<Svgs.MR height={80} width={widthDimensions} />",
+    "answer": [
+      "Mauritania",
+      "Senegal",
+      "Argentina",
+      "Đảo Heard và quần đảo McDonald"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "MS",
+    "name": "Montserrat",
+    "uri": "<Svgs.MS height={80} width={widthDimensions} />",
+    "answer": [
+      "Bangladesh",
+      "Sierra Leone",
+      "Croatia",
+      "Montserrat"
+    ],
+    "correct": 3
+  },
+  {
+    "id": "MT",
+    "name": "Malta",
+    "uri": "<Svgs.MT height={80} width={widthDimensions} />",
+    "answer": [
+      "Hà Lan",
+      "Hồng Kông",
+      "Malta",
+      "El Salvador"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "MU",
+    "name": "Mauritius",
+    "uri": "<Svgs.MU height={80} width={widthDimensions} />",
+    "answer": [
+      "Mauritius",
+      "Ukraine",
+      "Ấn Độ",
+      "Congo, the Democratic Republic of the"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "MV",
+    "name": "Maldives",
+    "uri": "<Svgs.MV height={80} width={widthDimensions} />",
+    "answer": [
+      "Triều Tiên",
+      "Maldives",
+      "Quần đảo Virgin",
+      "Bolivia"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "MW",
+    "name": "Malawi",
+    "uri": "<Svgs.MW height={80} width={widthDimensions} />",
+    "answer": [
+      "Latvia",
+      "Bỉ",
+      "Malawi",
+      "Nepal"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "MX",
+    "name": "Mexico",
+    "uri": "<Svgs.MX height={80} width={widthDimensions} />",
+    "answer": [
+      "Mexico",
+      "Paraguay",
+      "Bulgaria",
+      "Kuwait"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "MY",
+    "name": "Malaysia",
+    "uri": "<Svgs.MY height={80} width={widthDimensions} />",
+    "answer": [
+      "Mozambique",
+      "Palau",
+      "Canada",
+      "Malaysia"
+    ],
+    "correct": 3
+  },
+  {
+    "id": "MZ",
+    "name": "Mozambique",
+    "uri": "<Svgs.MZ height={80} width={widthDimensions} />",
+    "answer": [
+      "Tây Sahara",
+      "Iceland",
+      "Ukraine",
+      "Mozambique"
+    ],
+    "correct": 3
+  },
+  {
+    "id": "NA",
+    "name": "Namibia",
+    "uri": "<Svgs.NA height={80} width={widthDimensions} />",
+    "answer": [
+      "Namibia",
+      "Nigeria",
+      "Đảo Bouvet",
+      "Portugal"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "NC",
+    "name": "New Caledonia",
+    "uri": "<Svgs.NC height={80} width={widthDimensions} />",
+    "answer": [
+      "Saint Pierre và Miquelon",
+      "New Caledonia",
+      "Phần Lan",
+      "Indonesia"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "NE",
+    "name": "Niger",
+    "uri": "<Svgs.NE height={80} width={widthDimensions} />",
+    "answer": [
+      "Fiji",
+      "Gibraltar",
+      "Niger",
+      "Togo"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "NF",
+    "name": "Norfolk Island",
+    "uri": "<Svgs.NF height={80} width={widthDimensions} />",
+    "answer": [
+      "Palau",
+      "Đức",
+      "Haiti",
+      "Norfolk Island"
+    ],
+    "correct": 3
+  },
+  {
+    "id": "NG",
+    "name": "Nigeria",
+    "uri": "<Svgs.NG height={80} width={widthDimensions} />",
+    "answer": [
+      "Antarctica",
+      "Nigeria",
+      "Romania",
+      "Nigeria"
+    ],
+    "correct": 3
+  },
+  {
+    "id": "NI",
+    "name": "Nicaragua",
+    "uri": "<Svgs.NI height={80} width={widthDimensions} />",
+    "answer": [
+      "Nicaragua",
+      "Nepal",
+      "Benin",
+      "Lào"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "NL",
+    "name": "Hà Lan",
+    "uri": "<Svgs.NL height={80} width={widthDimensions} />",
+    "answer": [
+      "Saint Kitts và Nevis",
+      "Czech Republic",
+      "Hà Lan",
+      "Slovenia"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "NO",
+    "name": "Na Uy",
+    "uri": "<Svgs.NO height={80} width={widthDimensions} />",
+    "answer": [
+      "Georgia",
+      "Na Uy",
+      "Tonga",
+      "Na Uy"
+    ],
+    "correct": 3
+  },
+  {
+    "id": "NP",
+    "name": "Nepal",
+    "uri": "<Svgs.NP height={80} width={widthDimensions} />",
+    "answer": [
+      "Swaziland",
+      "Nepal",
+      "Canada",
+      "Malta"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "NR",
+    "name": "Nauru",
+    "uri": "<Svgs.NR height={80} width={widthDimensions} />",
+    "answer": [
+      "Guam",
+      "Pakistan",
+      "Argentina",
+      "Nauru"
+    ],
+    "correct": 3
+  },
+  {
+    "id": "NU",
+    "name": "Niue",
+    "uri": "<Svgs.NU height={80} width={widthDimensions} />",
+    "answer": [
+      "Niue",
+      "Đông Timor",
+      "Aruba",
+      "Madagascar"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "NZ",
+    "name": "New Zealand",
+    "uri": "<Svgs.NZ height={80} width={widthDimensions} />",
+    "answer": [
+      "Quần đảo Cayman",
+      "New Zealand",
+      "Guernsey",
+      "Saint Helena, Ascension và Tristan da Cunha"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "OM",
+    "name": "Oman",
+    "uri": "<Svgs.OM height={80} width={widthDimensions} />",
+    "answer": [
+      "Panama",
+      "Úc",
+      "Oman",
+      "New Caledonia"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "PA",
+    "name": "Panama",
+    "uri": "<Svgs.PA height={80} width={widthDimensions} />",
+    "answer": [
+      "Lãnh thổ Anh tại Ấn Độ Dương",
+      "Panama",
+      "Áo",
+      "Puerto Rico"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "PE",
+    "name": "Peru",
+    "uri": "<Svgs.PE height={80} width={widthDimensions} />",
+    "answer": [
+      "Peru",
+      "Ghana",
+      "Qatar",
+      "Trung Quốc"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "PF",
+    "name": "Polynésie thuộc Pháp",
+    "uri": "<Svgs.PF height={80} width={widthDimensions} />",
+    "answer": [
+      "Wales",
+      "Liechtenstein",
+      "Polynésie thuộc Pháp",
+      "Saint Pierre và Miquelon"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "PG",
+    "name": "Papua New Guinea",
+    "uri": "<Svgs.PG height={80} width={widthDimensions} />",
+    "answer": [
+      "Tây Sahara",
+      "Papua New Guinea",
+      "Iraq",
+      "San Marino"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "PH",
+    "name": "Philippines",
+    "uri": "<Svgs.PH height={80} width={widthDimensions} />",
+    "answer": [
+      "Djibouti",
+      "Philippines",
+      "Jersey",
+      "Peru"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "PK",
+    "name": "Pakistan",
+    "uri": "<Svgs.PK height={80} width={widthDimensions} />",
+    "answer": [
+      "Phần Lan",
+      "Pakistan",
+      "Montenegro",
+      "Somalia"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "PL",
+    "name": "Ba Lan",
+    "uri": "<Svgs.PL height={80} width={widthDimensions} />",
+    "answer": [
+      "Tây Sahara",
+      "Haiti",
+      "Ba Lan",
+      "Suriname"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "PM",
+    "name": "Saint Pierre và Miquelon",
+    "uri": "<Svgs.PM height={80} width={widthDimensions} />",
+    "answer": [
+      "El Salvador",
+      "Marshall Islands",
+      "Saint Pierre và Miquelon",
+      "Colombia"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "PN",
+    "name": "Pitcairn",
+    "uri": "<Svgs.PN height={80} width={widthDimensions} />",
+    "answer": [
+      "Pitcairn",
+      "Haiti",
+      "Quần đảo Solomon",
+      "Cameroon"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "PR",
+    "name": "Puerto Rico",
+    "uri": "<Svgs.PR height={80} width={widthDimensions} />",
+    "answer": [
+      "Portugal",
+      "Sri Lanka",
+      "Anguilla",
+      "Puerto Rico"
+    ],
+    "correct": 3
+  },
+  {
+    "id": "PS",
+    "name": "Palestine",
+    "uri": "<Svgs.PS height={80} width={widthDimensions} />",
+    "answer": [
+      "Polynésie thuộc Pháp",
+      "Palestine",
+      "Bỉ",
+      "Gibraltar"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "PT",
+    "name": "Portugal",
+    "uri": "<Svgs.PT height={80} width={widthDimensions} />",
+    "answer": [
+      "Malta",
+      "Sierra Leone",
+      "Czech Republic",
+      "Portugal"
+    ],
+    "correct": 3
+  },
+  {
+    "id": "PW",
+    "name": "Palau",
+    "uri": "<Svgs.PW height={80} width={widthDimensions} />",
+    "answer": [
+      "Quần đảo Svalbard và Jan Mayen",
+      "Mexico",
+      "Palau",
+      "Bosnia và Herzegovina"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "PY",
+    "name": "Paraguay",
+    "uri": "<Svgs.PY height={80} width={widthDimensions} />",
+    "answer": [
+      "Paraguay",
+      "Mauritania",
+      "Palestine",
+      "Bosnia và Herzegovina"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "QA",
+    "name": "Qatar",
+    "uri": "<Svgs.QA height={80} width={widthDimensions} />",
+    "answer": [
+      "Denmark",
+      "Qatar",
+      "Réunion",
+      "Israel"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "RE",
+    "name": "Réunion",
+    "uri": "<Svgs.RE height={80} width={widthDimensions} />",
+    "answer": [
+      "Vương quốc Anh",
+      "Réunion",
+      "Maldives",
+      "Panama"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "RO",
+    "name": "Romania",
+    "uri": "<Svgs.RO height={80} width={widthDimensions} />",
+    "answer": [
+      "Venezuela",
+      "Các tiểu vương quốc Ả Rập Thống nhất",
+      "Namibia",
+      "Romania"
+    ],
+    "correct": 3
+  },
+  {
+    "id": "RS",
+    "name": "Serbia",
+    "uri": "<Svgs.RS height={80} width={widthDimensions} />",
+    "answer": [
+      "Serbia",
+      "Nga",
+      "Đảo Síp",
+      "Na Uy"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "RU",
+    "name": "Nga",
+    "uri": "<Svgs.RU height={80} width={widthDimensions} />",
+    "answer": [
+      "Nga",
+      "Palestine",
+      "Grenada",
+      "Saint Kitts và Nevis"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "RW",
+    "name": "Rwanda",
+    "uri": "<Svgs.RW height={80} width={widthDimensions} />",
+    "answer": [
+      "Rwanda",
+      "Thổ Nhĩ Kỳ",
+      "Côte dIvoire",
+      "Liberia"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "SA",
+    "name": "Ả Rập Xê Út",
+    "uri": "<Svgs.SA height={80} width={widthDimensions} />",
+    "answer": [
+      "Polynésie thuộc Pháp",
+      "Ả Rập Xê Út",
+      "Bahamas",
+      "Quần đảo Bắc Mariana"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "SB",
+    "name": "Quần đảo Solomon",
+    "uri": "<Svgs.SB height={80} width={widthDimensions} />",
+    "answer": [
+      "Quần đảo Solomon",
+      "Mozambique",
+      "Sudan",
+      "Canada"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "SC",
+    "name": "Seychelles",
+    "uri": "<Svgs.SC height={80} width={widthDimensions} />",
+    "answer": [
+      "Seychelles",
+      "Senegal",
+      "Côte dIvoire",
+      "Li-băng"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "SD",
+    "name": "Sudan",
+    "uri": "<Svgs.SD height={80} width={widthDimensions} />",
+    "answer": [
+      "Sudan",
+      "Đức",
+      "Singapore",
+      "Campuchia"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "SE",
+    "name": "Thụy Điển",
+    "uri": "<Svgs.SE height={80} width={widthDimensions} />",
+    "answer": [
+      "Thụy Điển",
+      "Pháp",
+      "Quần đảo Svalbard và Jan Mayen",
+      "Malaysia"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "SG",
+    "name": "Singapore",
+    "uri": "<Svgs.SG height={80} width={widthDimensions} />",
+    "answer": [
+      "Bhutan",
+      "Singapore",
+      "Mauritius",
+      "Seychelles"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "SH",
+    "name": "Saint Helena, Ascension và Tristan da Cunha",
+    "uri": "<Svgs.SH height={80} width={widthDimensions} />",
+    "answer": [
+      "Bahamas",
+      "Saint Helena, Ascension và Tristan da Cunha",
+      "Quần đảo Svalbard và Jan Mayen",
+      "Hungary"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "SI",
+    "name": "Slovenia",
+    "uri": "<Svgs.SI height={80} width={widthDimensions} />",
+    "answer": [
+      "Oman",
+      "Bosnia và Herzegovina",
+      "Slovenia",
+      "Moldova"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "SJ",
+    "name": "Quần đảo Svalbard và Jan Mayen",
+    "uri": "<Svgs.SJ height={80} width={widthDimensions} />",
+    "answer": [
+      "Mali",
+      "Quần đảo Svalbard và Jan Mayen",
+      "Đài Loan",
+      "Cook Islands"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "SK",
+    "name": "Slovakia",
+    "uri": "<Svgs.SK height={80} width={widthDimensions} />",
+    "answer": [
+      "Bỉ",
+      "Thành Vatican",
+      "Slovakia",
+      "Kuwait"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "SL",
+    "name": "Sierra Leone",
+    "uri": "<Svgs.SL height={80} width={widthDimensions} />",
+    "answer": [
+      "Úc",
+      "Moldova",
+      "Sierra Leone",
+      "Qatar"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "SM",
+    "name": "San Marino",
+    "uri": "<Svgs.SM height={80} width={widthDimensions} />",
+    "answer": [
+      "Ukraine",
+      "Jamaica",
+      "Bắc Ireland ",
+      "San Marino"
+    ],
+    "correct": 3
+  },
+  {
+    "id": "SN",
+    "name": "Senegal",
+    "uri": "<Svgs.SN height={80} width={widthDimensions} />",
+    "answer": [
+      "Đông Timor",
+      "Ghana",
+      "Senegal",
+      "Georgia"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "SO",
+    "name": "Somalia",
+    "uri": "<Svgs.SO height={80} width={widthDimensions} />",
+    "answer": [
+      "Somalia",
+      "Martinique",
+      "Belarus",
+      "Réunion"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "SR",
+    "name": "Suriname",
+    "uri": "<Svgs.SR height={80} width={widthDimensions} />",
+    "answer": [
+      "Azerbaijan",
+      "Quần đảo Virgin",
+      "Equatorial Guinea",
+      "Suriname"
+    ],
+    "correct": 3
+  },
+  {
+    "id": "SS",
+    "name": "South Sudan",
+    "uri": "<Svgs.SS height={80} width={widthDimensions} />",
+    "answer": [
+      "Pitcairn",
+      "South Sudan",
+      "Azerbaijan",
+      "Gibraltar"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "ST",
+    "name": "São Tomé và Príncipe",
+    "uri": "<Svgs.ST height={80} width={widthDimensions} />",
+    "answer": [
+      "Syria",
+      "Brunei Darussalam",
+      "Lithuania",
+      "São Tomé và Príncipe"
+    ],
+    "correct": 3
+  },
+  {
+    "id": "SV",
+    "name": "El Salvador",
+    "uri": "<Svgs.SV height={80} width={widthDimensions} />",
+    "answer": [
+      "El Salvador",
+      "New Caledonia",
+      "Quần đảo Solomon",
+      "Bỉ"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "SX",
+    "name": "Sint Maarten",
+    "uri": "<Svgs.SX height={80} width={widthDimensions} />",
+    "answer": [
+      "Na Uy",
+      "Burundi",
+      "Saint Helena, Ascension và Tristan da Cunha",
+      "Sint Maarten"
+    ],
+    "correct": 3
+  },
+  {
+    "id": "SY",
+    "name": "Syria",
+    "uri": "<Svgs.SY height={80} width={widthDimensions} />",
+    "answer": [
+      "Malta",
+      "Syria",
+      "Romania",
+      "Cook Islands"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "SZ",
+    "name": "Swaziland",
+    "uri": "<Svgs.SZ height={80} width={widthDimensions} />",
+    "answer": [
+      "Bosnia và Herzegovina",
+      "Israel",
+      "Swaziland",
+      "Sierra Leone"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "TC",
+    "name": "Quần đảo Turks và Caicos",
+    "uri": "<Svgs.TC height={80} width={widthDimensions} />",
+    "answer": [
+      "Các tiểu vương quốc Ả Rập Thống nhất",
+      "Quần đảo Turks và Caicos",
+      "Qatar",
+      "Guatemala"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "TD",
+    "name": "Chad",
+    "uri": "<Svgs.TD height={80} width={widthDimensions} />",
+    "answer": [
+      "Guyane thuộc Pháp",
+      "Lãnh thổ Anh tại Ấn Độ Dương",
+      "Chad",
+      "Đông Timor"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "TF",
+    "name": "French Southern Territories",
+    "uri": "<Svgs.TF height={80} width={widthDimensions} />",
+    "answer": [
+      "Serbia",
+      "Quần đảo Cocos",
+      "Madagascar",
+      "French Southern Territories"
+    ],
+    "correct": 3
+  },
+  {
+    "id": "TG",
+    "name": "Togo",
+    "uri": "<Svgs.TG height={80} width={widthDimensions} />",
+    "answer": [
+      "Papua New Guinea",
+      "Nicaragua",
+      "Belarus",
+      "Togo"
+    ],
+    "correct": 3
+  },
+  {
+    "id": "TH",
+    "name": "Thailand",
+    "uri": "<Svgs.TH height={80} width={widthDimensions} />",
+    "answer": [
+      "Pitcairn",
+      "Gibraltar",
+      "Armenia",
+      "Thailand"
+    ],
+    "correct": 3
+  },
+  {
+    "id": "TJ",
+    "name": "Tajikistan",
+    "uri": "<Svgs.TJ height={80} width={widthDimensions} />",
+    "answer": [
+      "South Sudan",
+      "Macao",
+      "Tajikistan",
+      "Georgia"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "TK",
+    "name": "Tokelau",
+    "uri": "<Svgs.TK height={80} width={widthDimensions} />",
+    "answer": [
+      "Montserrat",
+      "Quần đảo Svalbard và Jan Mayen",
+      "Tokelau",
+      "Dominica"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "TL",
+    "name": "Đông Timor",
+    "uri": "<Svgs.TL height={80} width={widthDimensions} />",
+    "answer": [
+      "Saint Martin",
+      "Romania",
+      "Đông Timor",
+      "Afghanistan"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "TM",
+    "name": "Turkmenistan",
+    "uri": "<Svgs.TM height={80} width={widthDimensions} />",
+    "answer": [
+      "Mexico",
+      "Turkmenistan",
+      "Anguilla",
+      "Pitcairn"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "TN",
+    "name": "Tunisia",
+    "uri": "<Svgs.TN height={80} width={widthDimensions} />",
+    "answer": [
+      "Pháp",
+      "Isle of Man",
+      "Ả Rập Xê Út",
+      "Tunisia"
+    ],
+    "correct": 3
+  },
+  {
+    "id": "TO",
+    "name": "Tonga",
+    "uri": "<Svgs.TO height={80} width={widthDimensions} />",
+    "answer": [
+      "Papua New Guinea",
+      "Tonga",
+      "Bahrain",
+      "Saint Lucia"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "TR",
+    "name": "Thổ Nhĩ Kỳ",
+    "uri": "<Svgs.TR height={80} width={widthDimensions} />",
+    "answer": [
+      "Scotland",
+      "Thổ Nhĩ Kỳ",
+      "Greenland",
+      "Chad"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "TT",
+    "name": "Trinidad và Tobago",
+    "uri": "<Svgs.TT height={80} width={widthDimensions} />",
+    "answer": [
+      "Pháp",
+      "Trinidad và Tobago",
+      "Yemen",
+      "Campuchia"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "TV",
+    "name": "Tuvalu",
+    "uri": "<Svgs.TV height={80} width={widthDimensions} />",
+    "answer": [
+      "Bulgaria",
+      "Somalia",
+      "Tuvalu",
+      "Isle of Man"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "TW",
+    "name": "Đài Loan",
+    "uri": "<Svgs.TW height={80} width={widthDimensions} />",
+    "answer": [
+      "Đài Loan",
+      "Indonesia",
+      "Seychelles",
+      "Đức"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "TZ",
+    "name": "Tanzania",
+    "uri": "<Svgs.TZ height={80} width={widthDimensions} />",
+    "answer": [
+      "Tanzania",
+      "Angola",
+      "Ấn Độ",
+      "Venezuela"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "UA",
+    "name": "Ukraine",
+    "uri": "<Svgs.UA height={80} width={widthDimensions} />",
+    "answer": [
+      "Anh",
+      "Ukraine",
+      "Panama",
+      "Sri Lanka"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "UG",
+    "name": "Uganda",
+    "uri": "<Svgs.UG height={80} width={widthDimensions} />",
+    "answer": [
+      "Curaçao",
+      "Nepal",
+      "Uganda",
+      "Croatia"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "US",
+    "name": "Mỹ (Hoa Kỳ)",
+    "uri": "<Svgs.US height={80} width={widthDimensions} />",
+    "answer": [
+      "Mỹ (Hoa Kỳ)",
+      "Rwanda",
+      "Chile",
+      "Guatemala"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "UY",
+    "name": "Uruguay",
+    "uri": "<Svgs.UY height={80} width={widthDimensions} />",
+    "answer": [
+      "Uruguay",
+      "Thổ Nhĩ Kỳ",
+      "Saint Barthélemy",
+      "Madagascar"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "UZ",
+    "name": "Uzbekistan",
+    "uri": "<Svgs.UZ height={80} width={widthDimensions} />",
+    "answer": [
+      "American Samoa",
+      "Bắc Macedonia",
+      "Madagascar",
+      "Uzbekistan"
+    ],
+    "correct": 3
+  },
+  {
+    "id": "VA",
+    "name": "Thành Vatican",
+    "uri": "<Svgs.VA height={80} width={widthDimensions} />",
+    "answer": [
+      "Hàn Quốc",
+      "Ba Lan",
+      "Colombia",
+      "Thành Vatican"
+    ],
+    "correct": 3
+  },
+  {
+    "id": "VC",
+    "name": "Saint Vincent và Grenadines",
+    "uri": "<Svgs.VC height={80} width={widthDimensions} />",
+    "answer": [
+      "Nhật Bản",
+      "Saint Vincent và Grenadines",
+      "Thụy Sỹ",
+      "Seychelles"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "VE",
+    "name": "Venezuela",
+    "uri": "<Svgs.VE height={80} width={widthDimensions} />",
+    "answer": [
+      "Jersey",
+      "Trung Quốc",
+      "Venezuela",
+      "Palestine"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "VG",
+    "name": "Quần đảo Virgin",
+    "uri": "<Svgs.VG height={80} width={widthDimensions} />",
+    "answer": [
+      "Tây Sahara",
+      "Lãnh thổ Anh tại Ấn Độ Dương",
+      "Nga",
+      "Quần đảo Virgin"
+    ],
+    "correct": 3
+  },
+  {
+    "id": "VI",
+    "name": "Quần đảo Virgin",
+    "uri": "<Svgs.VI height={80} width={widthDimensions} />",
+    "answer": [
+      "Bosnia và Herzegovina",
+      "Togo",
+      "Quần đảo Virgin",
+      "Madagascar"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "VN",
+    "name": "Việt Nam",
+    "uri": "<Svgs.VN height={80} width={widthDimensions} />",
+    "answer": [
+      "Algeria",
+      "Việt Nam",
+      "Nam Georgia và Quần đảo Nam Sandwich",
+      "Senegal"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "VU",
+    "name": "Vanuatu",
+    "uri": "<Svgs.VU height={80} width={widthDimensions} />",
+    "answer": [
+      "Singapore",
+      "Vanuatu",
+      "Guinea",
+      "Trung Quốc"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "WF",
+    "name": "Wallis và Futuna Islands",
+    "uri": "<Svgs.WF height={80} width={widthDimensions} />",
+    "answer": [
+      "Serbia",
+      "Belize",
+      "Wallis và Futuna",
+      "Lithuania"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "WS",
+    "name": "Samoa",
+    "uri": "<Svgs.WS height={80} width={widthDimensions} />",
+    "answer": [
+      "Côte dIvoire",
+      "Serbia",
+      "Samoa",
+      "Malta"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "XK",
+    "name": "Kosovo",
+    "uri": "<Svgs.XK height={80} width={widthDimensions} />",
+    "answer": [
+      "Curaçao",
+      "Luxembourg",
+      "Kosovo",
+      "Ả Rập Xê Út"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "YE",
+    "name": "Yemen",
+    "uri": "<Svgs.YE height={80} width={widthDimensions} />",
+    "answer": [
+      "Anh",
+      "Yemen",
+      "Zimbabwe",
+      "Nam Georgia và Quần đảo Nam Sandwich"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "YT",
+    "name": "Mayotte",
+    "uri": "<Svgs.YT height={80} width={widthDimensions} />",
+    "answer": [
+      "Gambia",
+      "Slovakia",
+      "Andorra",
+      "Mayotte"
+    ],
+    "correct": 3
+  },
+  {
+    "id": "ZA",
+    "name": "Nam Phi",
+    "uri": "<Svgs.ZA height={80} width={widthDimensions} />",
+    "answer": [
+      "Nam Phi",
+      "American Samoa",
+      "Nam Georgia và Quần đảo Nam Sandwich",
+      "Portugal"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "ZM",
+    "name": "Zambia",
+    "uri": "<Svgs.ZM height={80} width={widthDimensions} />",
+    "answer": [
+      "Ireland",
+      "Grenada",
+      "Wallis và Futuna",
+      "Zambia"
+    ],
+    "correct": 3
+  },
+  {
+    "id": "ZW",
+    "name": "Zimbabwe",
+    "uri": "<Svgs.ZW height={80} width={widthDimensions} />",
+    "answer": [
+      "Bolivia",
+      "Rwanda",
+      "Zimbabwe",
+      "Malawi"
+    ],
+    "correct": 2
+  }
+]
