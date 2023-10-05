@@ -457,12 +457,12 @@
   },
   {
     "id": "CD",
-    "name": "Congo, the Democratic Republic of the",
+    "name": "Cộng hoà dân chủ Congo",
     "uri": "<Svgs.CD height={80} width={widthDimensions} />",
     "answer": [
       "Quần đảo Virgin",
       "Fiji",
-      "Congo, the Democratic Republic of the",
+      "Cộng hoà dân chủ Congo",
       "Norfolk Island"
     ],
     "correct": 2
@@ -481,11 +481,11 @@
   },
   {
     "id": "CG",
-    "name": "Republic of the Congo",
+    "name": "Cộng hoà Congo",
     "uri": "<Svgs.CG height={80} width={widthDimensions} />",
     "answer": [
-      "Republic of the Congo",
-      "Lãnh thổ Đảo Christmas",
+      "Cộng hoà Congo",
+      "Đảo Giáng Sinh",
       "Slovakia",
       "Namibia"
     ],
@@ -505,10 +505,10 @@
   },
   {
     "id": "CI",
-    "name": "Côte dIvoire",
+    "name": "Bờ Biển Ngà",
     "uri": "<Svgs.CI height={80} width={widthDimensions} />",
     "answer": [
-      "Côte dIvoire",
+      "Bờ Biển Ngà",
       "Cameroon",
       "Đài Loan",
       "Mali"
@@ -625,13 +625,13 @@
   },
   {
     "id": "CX",
-    "name": "Lãnh thổ Đảo Christmas",
+    "name": "Đảo Giáng Sinh",
     "uri": "<Svgs.CX height={80} width={widthDimensions} />",
     "answer": [
       "Panama",
       "Grenada",
       "Quần đảo Cayman",
-      "Lãnh thổ Đảo Christmas"
+      "Đảo Giáng Sinh"
     ],
     "correct": 3
   },
@@ -649,10 +649,10 @@
   },
   {
     "id": "CZ",
-    "name": "Czech Republic",
+    "name": "Séc",
     "uri": "<Svgs.CZ height={80} width={widthDimensions} />",
     "answer": [
-      "Czech Republic",
+      "Séc",
       "Đảo Heard và quần đảo McDonald",
       "Anh",
       "Qatar"
@@ -796,7 +796,7 @@
     "name": "Tây Ban Nha",
     "uri": "<Svgs.ES height={80} width={widthDimensions} />",
     "answer": [
-      "Lãnh thổ Đảo Christmas",
+      "Đảo Giáng Sinh",
       "Tây Ban Nha",
       "Somalia",
       "Italy"
@@ -858,7 +858,7 @@
     "answer": [
       "Quần đảo Falkland",
       "Mauritania",
-      "Lãnh thổ Đảo Christmas",
+      "Đảo Giáng Sinh",
       "Papua New Guinea"
     ],
     "correct": 0
@@ -965,7 +965,7 @@
     "uri": "<Svgs.GB height={80} width={widthDimensions} />",
     "answer": [
       "Vương quốc Anh",
-      "Lãnh thổ Đảo Christmas",
+      "Đảo Giáng Sinh",
       "Comoros",
       "Polynésie thuộc Pháp"
     ],
@@ -1650,7 +1650,7 @@
     "answer": [
       "Italy",
       "Luxembourg",
-      "Congo, the Democratic Republic of the",
+      "Cộng hoà dân chủ Congo",
       "Quần đảo Turks và Caicos"
     ],
     "correct": 1
@@ -1891,7 +1891,7 @@
       "Mauritius",
       "Ukraine",
       "Ấn Độ",
-      "Congo, the Democratic Republic of the"
+      "Cộng hoà dân chủ Congo"
     ],
     "correct": 0
   },
@@ -2033,7 +2033,7 @@
     "uri": "<Svgs.NL height={80} width={widthDimensions} />",
     "answer": [
       "Saint Kitts và Nevis",
-      "Czech Republic",
+      "Séc",
       "Hà Lan",
       "Slovenia"
     ],
@@ -2250,7 +2250,7 @@
     "answer": [
       "Malta",
       "Sierra Leone",
-      "Czech Republic",
+      "Séc",
       "Portugal"
     ],
     "correct": 3
@@ -2346,7 +2346,7 @@
     "answer": [
       "Rwanda",
       "Thổ Nhĩ Kỳ",
-      "Côte dIvoire",
+      "Bờ Biển Ngà",
       "Liberia"
     ],
     "correct": 0
@@ -2382,7 +2382,7 @@
     "answer": [
       "Seychelles",
       "Senegal",
-      "Côte dIvoire",
+      "Bờ Biển Ngà",
       "Li-băng"
     ],
     "correct": 0
@@ -2956,7 +2956,7 @@
     "name": "Samoa",
     "uri": "<Svgs.WS height={80} width={widthDimensions} />",
     "answer": [
-      "Côte dIvoire",
+      "Bờ Biển Ngà",
       "Serbia",
       "Samoa",
       "Malta"
