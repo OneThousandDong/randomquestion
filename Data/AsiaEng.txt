@@ -1,0 +1,938 @@
+{
+  id: 'AF',
+  name: 'Afghanistan',
+  uri: "require('../../assets/flagpng/AF.png)",
+  answer: [ 'Azerbaijan', 'Jordan', 'Russian Federation', 'Afghanistan' ],
+  correct: 3,
+  index: 0
+}
+,
+{
+  id: 'AM',
+  name: 'Armenia',
+  uri: "require('../../assets/flagpng/AM.png)",
+  answer: [ 'United Arab Emirates', 'Armenia', 'Israel', 'Malaysia' ],
+  correct: 1,
+  index: 7
+}
+,
+{
+  id: 'AZ',
+  name: 'Azerbaijan',
+  uri: "require('../../assets/flagpng/AZ.png)",
+  answer: [ 'Uzbekistan', 'Afghanistan', 'Korea, Republic of', 'Azerbaijan' ],
+  correct: 3,
+  index: 10
+}
+,
+{
+  id: 'BH',
+  name: 'Bahrain',
+  uri: "require('../../assets/flagpng/BH.png)",
+  answer: [ 'Bahrain', 'Jordan', 'Cambodia', 'Türkiye' ],
+  correct: 0,
+  index: 12
+}
+,
+{
+  id: 'BD',
+  name: 'Bangladesh',
+  uri: "require('../../assets/flagpng/BD.png)",
+  answer: [
+    "Lao People's Democratic Republic",
+    'Bangladesh',
+    'Georgia',
+    'Tajikistan'
+  ],
+  correct: 1,
+  index: 13
+}
+,
+{
+  id: 'BT',
+  name: 'Bhutan',
+  uri: "require('../../assets/flagpng/BT.png)",
+  answer: [ 'Turkmenistan', 'Korea, Republic of', 'Bhutan', 'Indonesia' ],
+  correct: 2,
+  index: 19
+}
+,
+{
+  id: 'BN',
+  name: 'Brunei Darussalam',
+  uri: "require('../../assets/flagpng/BN.png)",
+  answer: [
+    'Turkmenistan',
+    'Brunei Darussalam',
+    "Korea (Democratic People's Republic of)",
+    'Israel'
+  ],
+  correct: 1,
+  index: 24
+}
+,
+{
+  id: 'KH',
+  name: 'Cambodia',
+  uri: "require('../../assets/flagpng/KH.png)",
+  answer: [ 'Yemen', 'China', 'Kazakhstan', 'Cambodia' ],
+  correct: 3,
+  index: 29
+}
+,
+{
+  id: 'CN',
+  name: 'China',
+  uri: "require('../../assets/flagpng/CN.png)",
+  answer: [ 'Cambodia', 'Singapore', 'China', 'Maldives' ],
+  correct: 2,
+  index: 35
+}
+,
+{
+  id: 'GE',
+  name: 'Georgia',
+  uri: "require('../../assets/flagpng/GE.png)",
+  answer: [ 'Jordan', 'Viet Nam', 'Cambodia', 'Georgia' ],
+  correct: 3,
+  index: 63
+}
+,
+{
+  id: 'IN',
+  name: 'India',
+  uri: "require('../../assets/flagpng/IN.png)",
+  answer: [ 'United Arab Emirates', 'Philippines', 'India', 'Cambodia' ],
+  correct: 2,
+  index: 76
+}
+,
+{
+  id: 'ID',
+  name: 'Indonesia',
+  uri: "require('../../assets/flagpng/ID.png)",
+  answer: [ 'Russian Federation', 'Indonesia', 'Pakistan', 'Armenia' ],
+  correct: 1,
+  index: 77
+}
+,
+{
+  id: 'IR',
+  name: 'Iran (Islamic Republic of)',
+  uri: "require('../../assets/flagpng/IR.png)",
+  answer: [ 'Tajikistan', 'Iraq', 'Iran (Islamic Republic of)', 'Philippines' ],
+  correct: 2,
+  index: 78
+}
+,
+{
+  id: 'IQ',
+  name: 'Iraq',
+  uri: "require('../../assets/flagpng/IQ.png)",
+  answer: [ 'Japan', 'Kyrgyzstan', 'Singapore', 'Iraq' ],
+  correct: 3,
+  index: 79
+}
+,
+{
+  id: 'IL',
+  name: 'Israel',
+  uri: "require('../../assets/flagpng/IL.png)",
+  answer: [ 'Yemen', 'Brunei Darussalam', 'Korea, Republic of', 'Israel' ],
+  correct: 3,
+  index: 81
+}
+,
+{
+  id: 'JP',
+  name: 'Japan',
+  uri: "require('../../assets/flagpng/JP.png)",
+  answer: [ 'Japan', 'Korea, Republic of', 'Bangladesh', 'Viet Nam' ],
+  correct: 0,
+  index: 84
+}
+,
+{
+  id: 'JO',
+  name: 'Jordan',
+  uri: "require('../../assets/flagpng/JO.png)",
+  answer: [ 'Iran (Islamic Republic of)', 'Jordan', 'Thailand', 'Kyrgyzstan' ],
+  correct: 1,
+  index: 85
+}
+,
+{
+  id: 'KZ',
+  name: 'Kazakhstan',
+  uri: "require('../../assets/flagpng/KZ.png)",
+  answer: [ 'Jordan', 'Saudi Arabia', 'Bahrain', 'Kazakhstan' ],
+  correct: 3,
+  index: 86
+}
+,
+{
+  id: 'KP',
+  name: "Korea (Democratic People's Republic of)",
+  uri: "require('../../assets/flagpng/KP.png)",
+  answer: [
+    "Korea (Democratic People's Republic of)",
+    'Thailand',
+    'Malaysia',
+    'India'
+  ],
+  correct: 0,
+  index: 89
+}
+,
+{
+  id: 'KR',
+  name: 'Korea, Republic of',
+  uri: "require('../../assets/flagpng/KR.png)",
+  answer: [
+    'Iraq',
+    'Kyrgyzstan',
+    'Korea, Republic of',
+    'Syrian Arab Republic'
+  ],
+  correct: 2,
+  index: 90
+}
+,
+{
+  id: 'KW',
+  name: 'Kuwait',
+  uri: "require('../../assets/flagpng/KW.png)",
+  answer: [ 'Kuwait', 'Iraq', 'Philippines', 'Tajikistan' ],
+  correct: 0,
+  index: 91
+}
+,
+{
+  id: 'KG',
+  name: 'Kyrgyzstan',
+  uri: "require('../../assets/flagpng/KG.png)",
+  answer: [ 'Singapore', 'China', 'Malaysia', 'Kyrgyzstan' ],
+  correct: 3,
+  index: 92
+}
+,
+{
+  id: 'LA',
+  name: "Lao People's Democratic Republic",
+  uri: "require('../../assets/flagpng/LA.png)",
+  answer: [
+    "Lao People's Democratic Republic",
+    'Maldives',
+    'Cambodia',
+    'Syrian Arab Republic'
+  ],
+  correct: 0,
+  index: 93
+}
+,
+{
+  id: 'LB',
+  name: 'Lebanon',
+  uri: "require('../../assets/flagpng/LB.png)",
+  answer: [
+    'Uzbekistan',
+    'Lebanon',
+    'Philippines',
+    'Iran (Islamic Republic of)'
+  ],
+  correct: 1,
+  index: 95
+}
+,
+{
+  id: 'MY',
+  name: 'Malaysia',
+  uri: "require('../../assets/flagpng/MY.png)",
+  answer: [ 'Philippines', 'Malaysia', 'China', 'Thailand' ],
+  correct: 1,
+  index: 104
+}
+,
+{
+  id: 'MV',
+  name: 'Maldives',
+  uri: "require('../../assets/flagpng/MV.png)",
+  answer: [ 'Maldives', 'Turkmenistan', 'Oman', 'Iraq' ],
+  correct: 0,
+  index: 105
+}
+,
+{
+  id: 'MN',
+  name: 'Mongolia',
+  uri: "require('../../assets/flagpng/MN.png)",
+  answer: [ 'Bahrain', 'Mongolia', 'Türkiye', 'Korea, Republic of' ],
+  correct: 1,
+  index: 115
+}
+,
+{
+  id: 'MM',
+  name: 'Myanmar',
+  uri: "require('../../assets/flagpng/MM.png)",
+  answer: [ 'Myanmar', 'Philippines', 'Cambodia', 'Yemen' ],
+  correct: 0,
+  index: 119
+}
+,
+{
+  id: 'NP',
+  name: 'Nepal',
+  uri: "require('../../assets/flagpng/NP.png)",
+  answer: [ 'Tajikistan', 'Nepal', 'Indonesia', 'Lebanon' ],
+  correct: 1,
+  index: 122
+}
+,
+{
+  id: 'OM',
+  name: 'Oman',
+  uri: "require('../../assets/flagpng/OM.png)",
+  answer: [
+    'China',
+    'Oman',
+    'Saudi Arabia',
+    "Korea (Democratic People's Republic of)"
+  ],
+  correct: 1,
+  index: 130
+}
+,
+{
+  id: 'PK',
+  name: 'Pakistan',
+  uri: "require('../../assets/flagpng/PK.png)",
+  answer: [ 'Singapore', 'Pakistan', 'Cambodia', 'Philippines' ],
+  correct: 1,
+  index: 131
+}
+,
+{
+  id: 'PH',
+  name: 'Philippines',
+  uri: "require('../../assets/flagpng/PH.png)",
+  answer: [ 'Philippines', 'Sri Lanka', 'Lebanon', 'China' ],
+  correct: 0,
+  index: 137
+}
+,
+{
+  id: 'QA',
+  name: 'Qatar',
+  uri: "require('../../assets/flagpng/QA.png)",
+  answer: [ 'Yemen', 'China', 'Korea, Republic of', 'Qatar' ],
+  correct: 3,
+  index: 140
+}
+,
+{
+  id: 'RU',
+  name: 'Russian Federation',
+  uri: "require('../../assets/flagpng/RU.png)",
+  answer: [
+    'United Arab Emirates',
+    'Georgia',
+    'Kyrgyzstan',
+    'Russian Federation'
+  ],
+  correct: 3,
+  index: 142
+}
+,
+{
+  id: 'SA',
+  name: 'Saudi Arabia',
+  uri: "require('../../assets/flagpng/SA.png)",
+  answer: [
+    'Saudi Arabia',
+    'Iran (Islamic Republic of)',
+    'Kazakhstan',
+    'Tajikistan'
+  ],
+  correct: 0,
+  index: 150
+}
+,
+{
+  id: 'SG',
+  name: 'Singapore',
+  uri: "require('../../assets/flagpng/SG.png)",
+  answer: [ 'Bahrain', 'Singapore', 'Kazakhstan', 'Sri Lanka' ],
+  correct: 1,
+  index: 155
+}
+,
+{
+  id: 'LK',
+  name: 'Sri Lanka',
+  uri: "require('../../assets/flagpng/LK.png)",
+  answer: [ 'United Arab Emirates', 'Nepal', 'Georgia', 'Sri Lanka' ],
+  correct: 3,
+  index: 163
+}
+,
+{
+  id: 'SY',
+  name: 'Syrian Arab Republic',
+  uri: "require('../../assets/flagpng/SY.png)",
+  answer: [
+    'Iraq',
+    'Syrian Arab Republic',
+    "Korea (Democratic People's Republic of)",
+    'Turkmenistan'
+  ],
+  correct: 1,
+  index: 168
+}
+,
+{
+  id: 'TJ',
+  name: 'Tajikistan',
+  uri: "require('../../assets/flagpng/TJ.png)",
+  answer: [ 'Bahrain', 'Jordan', 'Tajikistan', 'Viet Nam' ],
+  correct: 2,
+  index: 169
+}
+,
+{
+  id: 'TH',
+  name: 'Thailand',
+  uri: "require('../../assets/flagpng/TH.png)",
+  answer: [ 'Afghanistan', 'Syrian Arab Republic', 'Thailand', 'Jordan' ],
+  correct: 2,
+  index: 171
+}
+,
+{
+  id: 'TR',
+  name: 'Türkiye',
+  uri: "require('../../assets/flagpng/TR.png)",
+  answer: [
+    "Korea (Democratic People's Republic of)",
+    'Türkiye',
+    'Japan',
+    'Türkiye'
+  ],
+  correct: 1,
+  index: 177
+}
+,
+{
+  id: 'TM',
+  name: 'Turkmenistan',
+  uri: "require('../../assets/flagpng/TM.png)",
+  answer: [ 'Yemen', 'Korea, Republic of', 'Indonesia', 'Turkmenistan' ],
+  correct: 3,
+  index: 178
+}
+,
+{
+  id: 'AE',
+  name: 'United Arab Emirates',
+  uri: "require('../../assets/flagpng/AE.png)",
+  answer: [
+    'Russian Federation',
+    'Malaysia',
+    'United Arab Emirates',
+    'Bangladesh'
+  ],
+  correct: 2,
+  index: 182
+}
+,
+{
+  id: 'UZ',
+  name: 'Uzbekistan',
+  uri: "require('../../assets/flagpng/UZ.png)",
+  answer: [
+    'Japan',
+    "Korea (Democratic People's Republic of)",
+    'Turkmenistan',
+    'Uzbekistan'
+  ],
+  correct: 3,
+  index: 186
+}
+,
+{
+  id: 'VN',
+  name: 'Viet Nam',
+  uri: "require('../../assets/flagpng/VN.png)",
+  answer: [
+    'Iraq',
+    'Viet Nam',
+    "Korea (Democratic People's Republic of)",
+    'Sri Lanka'
+  ],
+  correct: 1,
+  index: 189
+}
+,
+{
+  id: 'YE',
+  name: 'Yemen',
+  uri: "require('../../assets/flagpng/YE.png)",
+  answer: [ 'Afghanistan', 'Maldives', 'Uzbekistan', 'Yemen' ],
+  correct: 3,
+  index: 190
+}
+,
+{
+  id: 'AF',
+  name: 'Afghanistan',
+  uri: "require('../../assets/flagpng/AF.png)",
+  answer: [ 'Brunei Darussalam', 'Oman', 'Afghanistan', 'Russian Federation' ],
+  correct: 2,
+  index: 0
+}
+,
+{
+  id: 'AM',
+  name: 'Armenia',
+  uri: "require('../../assets/flagpng/AM.png)",
+  answer: [
+    'Armenia',
+    'Uzbekistan',
+    "Korea (Democratic People's Republic of)",
+    'Bhutan'
+  ],
+  correct: 0,
+  index: 7
+}
+,
+{
+  id: 'AZ',
+  name: 'Azerbaijan',
+  uri: "require('../../assets/flagpng/AZ.png)",
+  answer: [ 'Georgia', 'Azerbaijan', 'Myanmar', 'Türkiye' ],
+  correct: 1,
+  index: 10
+}
+,
+{
+  id: 'BH',
+  name: 'Bahrain',
+  uri: "require('../../assets/flagpng/BH.png)",
+  answer: [ 'Kazakhstan', 'Bahrain', 'India', 'Turkmenistan' ],
+  correct: 1,
+  index: 12
+}
+,
+{
+  id: 'BD',
+  name: 'Bangladesh',
+  uri: "require('../../assets/flagpng/BD.png)",
+  answer: [ 'Nepal', 'Syrian Arab Republic', 'India', 'Bangladesh' ],
+  correct: 3,
+  index: 13
+}
+,
+{
+  id: 'BT',
+  name: 'Bhutan',
+  uri: "require('../../assets/flagpng/BT.png)",
+  answer: [ 'Nepal', 'Turkmenistan', 'Bhutan', 'Brunei Darussalam' ],
+  correct: 2,
+  index: 19
+}
+,
+{
+  id: 'BN',
+  name: 'Brunei Darussalam',
+  uri: "require('../../assets/flagpng/BN.png)",
+  answer: [ 'Uzbekistan', 'Brunei Darussalam', 'Kyrgyzstan', 'Armenia' ],
+  correct: 1,
+  index: 24
+}
+,
+{
+  id: 'KH',
+  name: 'Cambodia',
+  uri: "require('../../assets/flagpng/KH.png)",
+  answer: [
+    'Thailand',
+    'Afghanistan',
+    "Korea (Democratic People's Republic of)",
+    'Cambodia'
+  ],
+  correct: 3,
+  index: 29
+}
+,
+{
+  id: 'CN',
+  name: 'China',
+  uri: "require('../../assets/flagpng/CN.png)",
+  answer: [ 'Singapore', 'China', 'Kuwait', 'Azerbaijan' ],
+  correct: 1,
+  index: 35
+}
+,
+{
+  id: 'GE',
+  name: 'Georgia',
+  uri: "require('../../assets/flagpng/GE.png)",
+  answer: [ 'Saudi Arabia', 'Armenia', 'Georgia', 'Qatar' ],
+  correct: 2,
+  index: 63
+}
+,
+{
+  id: 'IN',
+  name: 'India',
+  uri: "require('../../assets/flagpng/IN.png)",
+  answer: [ 'Iraq', 'India', 'Jordan', 'Russian Federation' ],
+  correct: 1,
+  index: 76
+}
+,
+{
+  id: 'ID',
+  name: 'Indonesia',
+  uri: "require('../../assets/flagpng/ID.png)",
+  answer: [ 'Indonesia', 'Brunei Darussalam', 'Tajikistan', 'Jordan' ],
+  correct: 0,
+  index: 77
+}
+,
+{
+  id: 'IR',
+  name: 'Iran (Islamic Republic of)',
+  uri: "require('../../assets/flagpng/IR.png)",
+  answer: [
+    'Iran (Islamic Republic of)',
+    'Iran (Islamic Republic of)',
+    'Pakistan',
+    'Singapore'
+  ],
+  correct: 1,
+  index: 78
+}
+,
+{
+  id: 'IQ',
+  name: 'Iraq',
+  uri: "require('../../assets/flagpng/IQ.png)",
+  answer: [ 'Iraq', 'Georgia', 'Viet Nam', 'Maldives' ],
+  correct: 0,
+  index: 79
+}
+,
+{
+  id: 'IL',
+  name: 'Israel',
+  uri: "require('../../assets/flagpng/IL.png)",
+  answer: [ 'Iraq', 'Israel', 'Singapore', 'Qatar' ],
+  correct: 1,
+  index: 81
+}
+,
+{
+  id: 'JP',
+  name: 'Japan',
+  uri: "require('../../assets/flagpng/JP.png)",
+  answer: [ 'Japan', 'Saudi Arabia', 'Israel', 'Philippines' ],
+  correct: 0,
+  index: 84
+}
+,
+{
+  id: 'JO',
+  name: 'Jordan',
+  uri: "require('../../assets/flagpng/JO.png)",
+  answer: [ 'India', 'Korea, Republic of', 'Jordan', 'Sri Lanka' ],
+  correct: 2,
+  index: 85
+}
+,
+{
+  id: 'KZ',
+  name: 'Kazakhstan',
+  uri: "require('../../assets/flagpng/KZ.png)",
+  answer: [ 'Singapore', 'Myanmar', 'Azerbaijan', 'Kazakhstan' ],
+  correct: 3,
+  index: 86
+}
+,
+{
+  id: 'KP',
+  name: "Korea (Democratic People's Republic of)",
+  uri: "require('../../assets/flagpng/KP.png)",
+  answer: [
+    'Cambodia',
+    'Sri Lanka',
+    "Korea (Democratic People's Republic of)",
+    'Korea, Republic of'
+  ],
+  correct: 2,
+  index: 89
+}
+,
+{
+  id: 'KR',
+  name: 'Korea, Republic of',
+  uri: "require('../../assets/flagpng/KR.png)",
+  answer: [ 'Korea, Republic of', 'Oman', 'Russian Federation', 'India' ],
+  correct: 0,
+  index: 90
+}
+,
+{
+  id: 'KW',
+  name: 'Kuwait',
+  uri: "require('../../assets/flagpng/KW.png)",
+  answer: [ 'Sri Lanka', 'Armenia', 'Malaysia', 'Kuwait' ],
+  correct: 3,
+  index: 91
+}
+,
+{
+  id: 'KG',
+  name: 'Kyrgyzstan',
+  uri: "require('../../assets/flagpng/KG.png)",
+  answer: [ 'Georgia', 'Kyrgyzstan', 'Turkmenistan', 'Myanmar' ],
+  correct: 1,
+  index: 92
+}
+,
+{
+  id: 'LA',
+  name: "Lao People's Democratic Republic",
+  uri: "require('../../assets/flagpng/LA.png)",
+  answer: [
+    'Iraq',
+    "Lao People's Democratic Republic",
+    'Türkiye',
+    "Korea (Democratic People's Republic of)"
+  ],
+  correct: 1,
+  index: 93
+}
+,
+{
+  id: 'LB',
+  name: 'Lebanon',
+  uri: "require('../../assets/flagpng/LB.png)",
+  answer: [ 'Tajikistan', 'Oman', 'Israel', 'Lebanon' ],
+  correct: 3,
+  index: 95
+}
+,
+{
+  id: 'MY',
+  name: 'Malaysia',
+  uri: "require('../../assets/flagpng/MY.png)",
+  answer: [ 'Turkmenistan', 'Bangladesh', 'Nepal', 'Malaysia' ],
+  correct: 3,
+  index: 104
+}
+,
+{
+  id: 'MV',
+  name: 'Maldives',
+  uri: "require('../../assets/flagpng/MV.png)",
+  answer: [
+    'Thailand',
+    'Korea, Republic of',
+    'Iran (Islamic Republic of)',
+    'Maldives'
+  ],
+  correct: 3,
+  index: 105
+}
+,
+{
+  id: 'MN',
+  name: 'Mongolia',
+  uri: "require('../../assets/flagpng/MN.png)",
+  answer: [ 'Oman', 'Indonesia', 'Mongolia', 'Uzbekistan' ],
+  correct: 2,
+  index: 115
+}
+,
+{
+  id: 'MM',
+  name: 'Myanmar',
+  uri: "require('../../assets/flagpng/MM.png)",
+  answer: [ 'India', 'Myanmar', 'Uzbekistan', 'Maldives' ],
+  correct: 1,
+  index: 119
+}
+,
+{
+  id: 'NP',
+  name: 'Nepal',
+  uri: "require('../../assets/flagpng/NP.png)",
+  answer: [ 'Armenia', 'Nepal', 'Yemen', 'Mongolia' ],
+  correct: 1,
+  index: 122
+}
+,
+{
+  id: 'OM',
+  name: 'Oman',
+  uri: "require('../../assets/flagpng/OM.png)",
+  answer: [ 'Mongolia', 'Sri Lanka', 'Oman', 'Israel' ],
+  correct: 2,
+  index: 130
+}
+,
+{
+  id: 'PK',
+  name: 'Pakistan',
+  uri: "require('../../assets/flagpng/PK.png)",
+  answer: [ 'Mongolia', 'Pakistan', 'Japan', 'Tajikistan' ],
+  correct: 1,
+  index: 131
+}
+,
+{
+  id: 'PH',
+  name: 'Philippines',
+  uri: "require('../../assets/flagpng/PH.png)",
+  answer: [ 'Kuwait', 'Thailand', 'Azerbaijan', 'Philippines' ],
+  correct: 3,
+  index: 137
+}
+,
+{
+  id: 'QA',
+  name: 'Qatar',
+  uri: "require('../../assets/flagpng/QA.png)",
+  answer: [ 'Cambodia', 'Kuwait', 'Qatar', 'Turkmenistan' ],
+  correct: 2,
+  index: 140
+}
+,
+{
+  id: 'RU',
+  name: 'Russian Federation',
+  uri: "require('../../assets/flagpng/RU.png)",
+  answer: [ 'India', 'Myanmar', 'Turkmenistan', 'Russian Federation' ],
+  correct: 3,
+  index: 142
+}
+,
+{
+  id: 'SA',
+  name: 'Saudi Arabia',
+  uri: "require('../../assets/flagpng/SA.png)",
+  answer: [ 'Myanmar', 'Cambodia', 'Saudi Arabia', 'Türkiye' ],
+  correct: 2,
+  index: 150
+}
+,
+{
+  id: 'SG',
+  name: 'Singapore',
+  uri: "require('../../assets/flagpng/SG.png)",
+  answer: [ 'Japan', 'Singapore', 'United Arab Emirates', 'Mongolia' ],
+  correct: 1,
+  index: 155
+}
+,
+{
+  id: 'LK',
+  name: 'Sri Lanka',
+  uri: "require('../../assets/flagpng/LK.png)",
+  answer: [ 'Pakistan', 'Sri Lanka', 'Uzbekistan', 'Cambodia' ],
+  correct: 1,
+  index: 163
+}
+,
+{
+  id: 'SY',
+  name: 'Syrian Arab Republic',
+  uri: "require('../../assets/flagpng/SY.png)",
+  answer: [ 'Mongolia', 'Syrian Arab Republic', 'Indonesia', 'Saudi Arabia' ],
+  correct: 1,
+  index: 168
+}
+,
+{
+  id: 'TJ',
+  name: 'Tajikistan',
+  uri: "require('../../assets/flagpng/TJ.png)",
+  answer: [ 'Bhutan', 'Tajikistan', 'Sri Lanka', 'Maldives' ],
+  correct: 1,
+  index: 169
+}
+,
+{
+  id: 'TH',
+  name: 'Thailand',
+  uri: "require('../../assets/flagpng/TH.png)",
+  answer: [ 'Sri Lanka', 'Japan', 'Malaysia', 'Thailand' ],
+  correct: 3,
+  index: 171
+}
+,
+{
+  id: 'TR',
+  name: 'Türkiye',
+  uri: "require('../../assets/flagpng/TR.png)",
+  answer: [
+    'Türkiye',
+    'Indonesia',
+    'Singapore',
+    "Korea (Democratic People's Republic of)"
+  ],
+  correct: 0,
+  index: 177
+}
+,
+{
+  id: 'TM',
+  name: 'Turkmenistan',
+  uri: "require('../../assets/flagpng/TM.png)",
+  answer: [ 'Turkmenistan', 'United Arab Emirates', 'Israel', 'Lebanon' ],
+  correct: 0,
+  index: 178
+}
+,
+{
+  id: 'AE',
+  name: 'United Arab Emirates',
+  uri: "require('../../assets/flagpng/AE.png)",
+  answer: [ 'Bhutan', 'United Arab Emirates', 'Malaysia', 'Sri Lanka' ],
+  correct: 1,
+  index: 182
+}
+,
+{
+  id: 'UZ',
+  name: 'Uzbekistan',
+  uri: "require('../../assets/flagpng/UZ.png)",
+  answer: [ 'Uzbekistan', 'Türkiye', 'Mongolia', 'Bahrain' ],
+  correct: 0,
+  index: 186
+}
+,
+{
+  id: 'VN',
+  name: 'Viet Nam',
+  uri: "require('../../assets/flagpng/VN.png)",
+  answer: [
+    'Saudi Arabia',
+    'Iran (Islamic Republic of)',
+    'Viet Nam',
+    'Mongolia'
+  ],
+  correct: 2,
+  index: 189
+}
+,
+{
+  id: 'YE',
+  name: 'Yemen',
+  uri: "require('../../assets/flagpng/YE.png)",
+  answer: [ 'Yemen', 'Kyrgyzstan', 'Iraq', 'Singapore' ],
+  correct: 0,
+  index: 190
+}
+,
