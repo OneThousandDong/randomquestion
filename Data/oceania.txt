@@ -1,0 +1,298 @@
+
+E:\tools>node app.js
+Server running at http://127.0.0.1:3000/
+{
+  id: 'AU',
+  name: 'Australia',
+  uri: "require('../../assets/flagpng/AU.png)",
+  answer: [ 'Solomon Islands', 'Tuvalu', 'Australia', 'Australia' ],
+  correct: 2,
+  index: 8
+}
+,
+{
+  id: 'FJ',
+  name: 'Fiji',
+  uri: "require('../../assets/flagpng/FJ.png)",
+  answer: [ 'Tuvalu', 'Solomon Islands', 'Nauru', 'Fiji' ],
+  correct: 3,
+  index: 58
+}
+,
+{
+  id: 'KI',
+  name: 'Kiribati',
+  uri: "require('../../assets/flagpng/KI.png)",
+  answer: [ 'Australia', 'Kiribati', 'Tuvalu', 'Timor-Leste' ],
+  correct: 1,
+  index: 88
+}
+,
+{
+  id: 'MH',
+  name: 'Marshall Islands',
+  uri: "require('../../assets/flagpng/MH.png)",
+  answer: [ 'Samoa', 'Tuvalu', 'Marshall Islands', 'Nauru' ],
+  correct: 2,
+  index: 108
+}
+,
+{
+  id: 'FM',
+  name: 'Micronesia (Federated States of)',
+  uri: "require('../../assets/flagpng/FM.png)",
+  answer: [
+    'Palau',
+    'Kiribati',
+    'Micronesia (Federated States of)',
+    'Vanuatu'
+  ],
+  correct: 2,
+  index: 112
+}
+,
+{
+  id: 'NR',
+  name: 'Nauru',
+  uri: "require('../../assets/flagpng/NR.png)",
+  answer: [ 'Tonga', 'Vanuatu', 'Australia', 'Nauru' ],
+  correct: 3,
+  index: 121
+}
+,
+{
+  id: 'NZ',
+  name: 'New Zealand',
+  uri: "require('../../assets/flagpng/NZ.png)",
+  answer: [ 'Tuvalu', 'New Zealand', 'Fiji', 'Solomon Islands' ],
+  correct: 1,
+  index: 124
+}
+,
+{
+  id: 'PW',
+  name: 'Palau',
+  uri: "require('../../assets/flagpng/PW.png)",
+  answer: [ 'Fiji', 'Vanuatu', 'Palau', 'Palau' ],
+  correct: 2,
+  index: 132
+}
+,
+{
+  id: 'PG',
+  name: 'Papua New Guinea',
+  uri: "require('../../assets/flagpng/PG.png)",
+  answer: [ 'Australia', 'Tuvalu', 'Palau', 'Papua New Guinea' ],
+  correct: 3,
+  index: 134
+}
+,
+{
+  id: 'WS',
+  name: 'Samoa',
+  uri: "require('../../assets/flagpng/WS.png)",
+  answer: [ 'Marshall Islands', 'Tuvalu', 'Papua New Guinea', 'Samoa' ],
+  correct: 3,
+  index: 147
+}
+,
+{
+  id: 'SB',
+  name: 'Solomon Islands',
+  uri: "require('../../assets/flagpng/SB.png)",
+  answer: [ 'Tuvalu', 'Nauru', 'Solomon Islands', 'Samoa' ],
+  correct: 2,
+  index: 158
+}
+,
+{
+  id: 'TL',
+  name: 'Timor-Leste',
+  uri: "require('../../assets/flagpng/TL.png)",
+  answer: [ 'Timor-Leste', 'Samoa', 'Tuvalu', 'Nauru' ],
+  correct: 0,
+  index: 172
+}
+,
+{
+  id: 'TO',
+  name: 'Tonga',
+  uri: "require('../../assets/flagpng/TO.png)",
+  answer: [ 'Tuvalu', 'Tonga', 'New Zealand', 'Marshall Islands' ],
+  correct: 1,
+  index: 174
+}
+,
+{
+  id: 'TV',
+  name: 'Tuvalu',
+  uri: "require('../../assets/flagpng/TV.png)",
+  answer: [ 'New Zealand', 'Tuvalu', 'Fiji', 'Tuvalu' ],
+  correct: 1,
+  index: 179
+}
+,
+{
+  id: 'VU',
+  name: 'Vanuatu',
+  uri: "require('../../assets/flagpng/VU.png)",
+  answer: [ 'Vanuatu', 'Vanuatu', 'Marshall Islands', 'New Zealand' ],
+  correct: 0,
+  index: 187
+}
+,
+{
+  id: 'AU',
+  name: 'Australia',
+  uri: "require('../../assets/flagpng/AU.png)",
+  answer: [ 'Australia', 'Samoa', 'Fiji', 'Vanuatu' ],
+  correct: 0,
+  index: 8
+}
+,
+{
+  id: 'FJ',
+  name: 'Fiji',
+  uri: "require('../../assets/flagpng/FJ.png)",
+  answer: [
+    'Vanuatu',
+    'Fiji',
+    'Micronesia (Federated States of)',
+    'Solomon Islands'
+  ],
+  correct: 1,
+  index: 58
+}
+,
+{
+  id: 'KI',
+  name: 'Kiribati',
+  uri: "require('../../assets/flagpng/KI.png)",
+  answer: [ 'Tuvalu', 'Kiribati', 'Fiji', 'Solomon Islands' ],
+  correct: 1,
+  index: 88
+}
+,
+{
+  id: 'MH',
+  name: 'Marshall Islands',
+  uri: "require('../../assets/flagpng/MH.png)",
+  answer: [ 'Vanuatu', 'Tonga', 'Nauru', 'Marshall Islands' ],
+  correct: 3,
+  index: 108
+}
+,
+{
+  id: 'FM',
+  name: 'Micronesia (Federated States of)',
+  uri: "require('../../assets/flagpng/FM.png)",
+  answer: [
+    'Samoa',
+    'Vanuatu',
+    'Micronesia (Federated States of)',
+    'Australia'
+  ],
+  correct: 2,
+  index: 112
+}
+,
+{
+  id: 'NR',
+  name: 'Nauru',
+  uri: "require('../../assets/flagpng/NR.png)",
+  answer: [
+    'Nauru',
+    'New Zealand',
+    'Micronesia (Federated States of)',
+    'Vanuatu'
+  ],
+  correct: 0,
+  index: 121
+}
+,
+{
+  id: 'NZ',
+  name: 'New Zealand',
+  uri: "require('../../assets/flagpng/NZ.png)",
+  answer: [ 'Vanuatu', 'Timor-Leste', 'New Zealand', 'Kiribati' ],
+  correct: 2,
+  index: 124
+}
+,
+{
+  id: 'PW',
+  name: 'Palau',
+  uri: "require('../../assets/flagpng/PW.png)",
+  answer: [ 'Vanuatu', 'Kiribati', 'Palau', 'Solomon Islands' ],
+  correct: 2,
+  index: 132
+}
+,
+{
+  id: 'PG',
+  name: 'Papua New Guinea',
+  uri: "require('../../assets/flagpng/PG.png)",
+  answer: [ 'Tuvalu', 'Marshall Islands', 'New Zealand', 'Papua New Guinea' ],
+  correct: 3,
+  index: 134
+}
+,
+{
+  id: 'WS',
+  name: 'Samoa',
+  uri: "require('../../assets/flagpng/WS.png)",
+  answer: [ 'Fiji', 'Tonga', 'Samoa', 'Tuvalu' ],
+  correct: 2,
+  index: 147
+}
+,
+{
+  id: 'SB',
+  name: 'Solomon Islands',
+  uri: "require('../../assets/flagpng/SB.png)",
+  answer: [ 'Solomon Islands', 'Samoa', 'Kiribati', 'Vanuatu' ],
+  correct: 0,
+  index: 158
+}
+,
+{
+  id: 'TL',
+  name: 'Timor-Leste',
+  uri: "require('../../assets/flagpng/TL.png)",
+  answer: [
+    'Vanuatu',
+    'Timor-Leste',
+    'Tonga',
+    'Micronesia (Federated States of)'
+  ],
+  correct: 1,
+  index: 172
+}
+,
+{
+  id: 'TO',
+  name: 'Tonga',
+  uri: "require('../../assets/flagpng/TO.png)",
+  answer: [ 'Nauru', 'Papua New Guinea', 'Vanuatu', 'Tonga' ],
+  correct: 3,
+  index: 174
+}
+,
+{
+  id: 'TV',
+  name: 'Tuvalu',
+  uri: "require('../../assets/flagpng/TV.png)",
+  answer: [ 'Australia', 'Tonga', 'Tuvalu', 'Tuvalu' ],
+  correct: 2,
+  index: 179
+}
+,
+{
+  id: 'VU',
+  name: 'Vanuatu',
+  uri: "require('../../assets/flagpng/VU.png)",
+  answer: [ 'Fiji', 'Tuvalu', 'Vanuatu', 'Samoa' ],
+  correct: 2,
+  index: 187
+}
+,

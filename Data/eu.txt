@@ -1,0 +1,812 @@
+
+E:\tools>node app.js
+Server running at http://127.0.0.1:3000/
+{
+  id: 'AL',
+  name: 'Albania',
+  uri: "require('../../assets/flagpng/AL.png)",
+  answer: [ 'Lithuania', 'Romania', 'Albania', 'Bosnia and Herzegovina' ],
+  correct: 2,
+  index: 1
+}
+,
+{
+  id: 'AD',
+  name: 'Andorra',
+  uri: "require('../../assets/flagpng/AD.png)",
+  answer: [ 'San Marino', 'Denmark', 'Andorra', 'Hungary' ],
+  correct: 2,
+  index: 3
+}
+,
+{
+  id: 'AT',
+  name: 'Austria',
+  uri: "require('../../assets/flagpng/AT.png)",
+  answer: [ 'Austria', 'Liechtenstein', 'Bulgaria', 'Slovakia' ],
+  correct: 0,
+  index: 9
+}
+,
+{
+  id: 'BY',
+  name: 'Belarus',
+  uri: "require('../../assets/flagpng/BY.png)",
+  answer: [ 'Serbia', 'Italy', 'Belarus', 'Belarus' ],
+  correct: 3,
+  index: 15
+}
+,
+{
+  id: 'BE',
+  name: 'Belgium',
+  uri: "require('../../assets/flagpng/BE.png)",
+  answer: [ 'Norway', 'Czechia', 'Belgium', 'Slovakia' ],
+  correct: 2,
+  index: 16
+}
+,
+{
+  id: 'BA',
+  name: 'Bosnia and Herzegovina',
+  uri: "require('../../assets/flagpng/BA.png)",
+  answer: [ 'Bosnia and Herzegovina', 'Sweden', 'Belarus', 'Luxembourg' ],
+  correct: 0,
+  index: 21
+}
+,
+{
+  id: 'BG',
+  name: 'Bulgaria',
+  uri: "require('../../assets/flagpng/BG.png)",
+  answer: [ 'Latvia', 'Bulgaria', 'Serbia', 'Andorra' ],
+  correct: 1,
+  index: 25
+}
+,
+{
+  id: 'HR',
+  name: 'Croatia',
+  uri: "require('../../assets/flagpng/HR.png)",
+  answer: [ 'Latvia', 'Croatia', 'Cyprus', 'Sweden' ],
+  correct: 1,
+  index: 42
+}
+,
+{
+  id: 'CY',
+  name: 'Cyprus',
+  uri: "require('../../assets/flagpng/CY.png)",
+  answer: [ 'Austria', 'Cyprus', 'Slovenia', 'Italy' ],
+  correct: 1,
+  index: 44
+}
+,
+{
+  id: 'CZ',
+  name: 'Czechia',
+  uri: "require('../../assets/flagpng/CZ.png)",
+  answer: [ 'Italy', 'Belarus', 'Romania', 'Czechia' ],
+  correct: 3,
+  index: 45
+}
+,
+{
+  id: 'DK',
+  name: 'Denmark',
+  uri: "require('../../assets/flagpng/DK.png)",
+  answer: [ 'Switzerland', 'Italy', 'Croatia', 'Denmark' ],
+  correct: 3,
+  index: 46
+}
+,
+{
+  id: 'EE',
+  name: 'Estonia',
+  uri: "require('../../assets/flagpng/EE.png)",
+  answer: [ 'Andorra', 'Estonia', 'Slovenia', 'Luxembourg' ],
+  correct: 1,
+  index: 55
+}
+,
+{
+  id: 'FI',
+  name: 'Finland',
+  uri: "require('../../assets/flagpng/FI.png)",
+  answer: [ 'San Marino', 'Finland', 'Norway', 'Estonia' ],
+  correct: 1,
+  index: 59
+}
+,
+{
+  id: 'FR',
+  name: 'France',
+  uri: "require('../../assets/flagpng/FR.png)",
+  answer: [ 'Andorra', 'Monaco', 'France', 'Sweden' ],
+  correct: 2,
+  index: 60
+}
+,
+{
+  id: 'DE',
+  name: 'Germany',
+  uri: "require('../../assets/flagpng/DE.png)",
+  answer: [ 'Iceland', 'Cyprus', 'Ukraine', 'Germany' ],
+  correct: 3,
+  index: 64
+}
+,
+{
+  id: 'GR',
+  name: 'Greece',
+  uri: "require('../../assets/flagpng/GR.png)",
+  answer: [ 'Greece', 'Finland', 'Lithuania', 'Slovakia' ],
+  correct: 0,
+  index: 66
+}
+,
+{
+  id: 'HU',
+  name: 'Hungary',
+  uri: "require('../../assets/flagpng/HU.png)",
+  answer: [ 'Hungary', 'Italy', 'Poland', 'France' ],
+  correct: 0,
+  index: 74
+}
+,
+{
+  id: 'IS',
+  name: 'Iceland',
+  uri: "require('../../assets/flagpng/IS.png)",
+  answer: [
+    'Denmark',
+    'Hungary',
+    'United Kingdom of Great Britain and Northern Ireland',
+    'Iceland'
+  ],
+  correct: 3,
+  index: 75
+}
+,
+{
+  id: 'IE',
+  name: 'Ireland',
+  uri: "require('../../assets/flagpng/IE.png)",
+  answer: [ 'Germany', 'Ireland', 'Iceland', 'San Marino' ],
+  correct: 1,
+  index: 80
+}
+,
+{
+  id: 'IT',
+  name: 'Italy',
+  uri: "require('../../assets/flagpng/IT.png)",
+  answer: [ 'Ireland', 'Italy', 'Austria', 'Sweden' ],
+  correct: 1,
+  index: 82
+}
+,
+{
+  id: 'LV',
+  name: 'Latvia',
+  uri: "require('../../assets/flagpng/LV.png)",
+  answer: [ 'Latvia', 'France', 'Portugal', 'Iceland' ],
+  correct: 0,
+  index: 94
+}
+,
+{
+  id: 'LI',
+  name: 'Liechtenstein',
+  uri: "require('../../assets/flagpng/LI.png)",
+  answer: [ 'Bulgaria', 'Norway', 'Portugal', 'Liechtenstein' ],
+  correct: 3,
+  index: 99
+}
+,
+{
+  id: 'LT',
+  name: 'Lithuania',
+  uri: "require('../../assets/flagpng/LT.png)",
+  answer: [ 'France', 'Lithuania', 'Italy', 'Sweden' ],
+  correct: 1,
+  index: 100
+}
+,
+{
+  id: 'LU',
+  name: 'Luxembourg',
+  uri: "require('../../assets/flagpng/LU.png)",
+  answer: [ 'Ireland', 'Luxembourg', 'Sweden', 'Czechia' ],
+  correct: 1,
+  index: 101
+}
+,
+{
+  id: 'MT',
+  name: 'Malta',
+  uri: "require('../../assets/flagpng/MT.png)",
+  answer: [ 'Malta', 'France', 'Malta', 'San Marino' ],
+  correct: 0,
+  index: 107
+}
+,
+{
+  id: 'MD',
+  name: 'Moldova, Republic of',
+  uri: "require('../../assets/flagpng/MD.png)",
+  answer: [ 'Lithuania', 'Poland', 'Moldova, Republic of', 'France' ],
+  correct: 2,
+  index: 113
+}
+,
+{
+  id: 'MC',
+  name: 'Monaco',
+  uri: "require('../../assets/flagpng/MC.png)",
+  answer: [ 'Monaco', 'Greece', 'Poland', 'Austria' ],
+  correct: 0,
+  index: 114
+}
+,
+{
+  id: 'ME',
+  name: 'Montenegro',
+  uri: "require('../../assets/flagpng/ME.png)",
+  answer: [ 'Italy', 'Portugal', 'Montenegro', 'Belgium' ],
+  correct: 2,
+  index: 116
+}
+,
+{
+  id: 'NL',
+  name: 'Netherlands',
+  uri: "require('../../assets/flagpng/NL.png)",
+  answer: [ 'Netherlands', 'Bulgaria', 'Moldova, Republic of', 'Ukraine' ],
+  correct: 0,
+  index: 123
+}
+,
+{
+  id: 'MK',
+  name: 'North Macedonia',
+  uri: "require('../../assets/flagpng/MK.png)",
+  answer: [ 'Monaco', 'Spain', 'Bulgaria', 'North Macedonia' ],
+  correct: 3,
+  index: 128
+}
+,
+{
+  id: 'NO',
+  name: 'Norway',
+  uri: "require('../../assets/flagpng/NO.png)",
+  answer: [ 'Norway', 'Slovakia', 'Moldova, Republic of', 'Belgium' ],
+  correct: 0,
+  index: 129
+}
+,
+{
+  id: 'PL',
+  name: 'Poland',
+  uri: "require('../../assets/flagpng/PL.png)",
+  answer: [ 'Ireland', 'Poland', 'Denmark', 'San Marino' ],
+  correct: 1,
+  index: 138
+}
+,
+{
+  id: 'PT',
+  name: 'Portugal',
+  uri: "require('../../assets/flagpng/PT.png)",
+  answer: [ 'Germany', 'Portugal', 'Moldova, Republic of', 'San Marino' ],
+  correct: 1,
+  index: 139
+}
+,
+{
+  id: 'RO',
+  name: 'Romania',
+  uri: "require('../../assets/flagpng/RO.png)",
+  answer: [ 'Cyprus', 'Romania', 'Liechtenstein', 'Spain' ],
+  correct: 1,
+  index: 141
+}
+,
+{
+  id: 'SM',
+  name: 'San Marino',
+  uri: "require('../../assets/flagpng/SM.png)",
+  answer: [ 'Malta', 'Germany', 'Spain', 'San Marino' ],
+  correct: 3,
+  index: 148
+}
+,
+{
+  id: 'RS',
+  name: 'Serbia',
+  uri: "require('../../assets/flagpng/RS.png)",
+  answer: [ 'Serbia', 'Bulgaria', 'Luxembourg', 'Slovakia' ],
+  correct: 0,
+  index: 152
+}
+,
+{
+  id: 'SK',
+  name: 'Slovakia',
+  uri: "require('../../assets/flagpng/SK.png)",
+  answer: [ 'Slovakia', 'Greece', 'Andorra', 'Slovakia' ],
+  correct: 3,
+  index: 156
+}
+,
+{
+  id: 'SI',
+  name: 'Slovenia',
+  uri: "require('../../assets/flagpng/SI.png)",
+  answer: [ 'Albania', 'San Marino', 'Liechtenstein', 'Slovenia' ],
+  correct: 3,
+  index: 157
+}
+,
+{
+  id: 'ES',
+  name: 'Spain',
+  uri: "require('../../assets/flagpng/ES.png)",
+  answer: [ 'Liechtenstein', 'Belarus', 'Spain', 'Romania' ],
+  correct: 2,
+  index: 162
+}
+,
+{
+  id: 'SE',
+  name: 'Sweden',
+  uri: "require('../../assets/flagpng/SE.png)",
+  answer: [ 'Romania', 'Norway', 'Sweden', 'France' ],
+  correct: 2,
+  index: 166
+}
+,
+{
+  id: 'CH',
+  name: 'Switzerland',
+  uri: "require('../../assets/flagpng/CH.png)",
+  answer: [ 'Estonia', 'Luxembourg', 'Sweden', 'Switzerland' ],
+  correct: 3,
+  index: 167
+}
+,
+{
+  id: 'UA',
+  name: 'Ukraine',
+  uri: "require('../../assets/flagpng/UA.png)",
+  answer: [
+    'United Kingdom of Great Britain and Northern Ireland',
+    'Latvia',
+    'Ukraine',
+    'Finland'
+  ],
+  correct: 2,
+  index: 181
+}
+,
+{
+  id: 'GB',
+  name: 'United Kingdom of Great Britain and Northern Ireland',
+  uri: "require('../../assets/flagpng/GB.png)",
+  answer: [
+    'Norway',
+    'Czechia',
+    'United Kingdom of Great Britain and Northern Ireland',
+    'San Marino'
+  ],
+  correct: 2,
+  index: 183
+}
+,
+{
+  id: 'AL',
+  name: 'Albania',
+  uri: "require('../../assets/flagpng/AL.png)",
+  answer: [ 'Portugal', 'Italy', 'Belarus', 'Albania' ],
+  correct: 3,
+  index: 1
+}
+,
+{
+  id: 'AD',
+  name: 'Andorra',
+  uri: "require('../../assets/flagpng/AD.png)",
+  answer: [ 'Luxembourg', 'Slovenia', 'Austria', 'Andorra' ],
+  correct: 3,
+  index: 3
+}
+,
+{
+  id: 'AT',
+  name: 'Austria',
+  uri: "require('../../assets/flagpng/AT.png)",
+  answer: [ 'Austria', 'Hungary', 'Serbia', 'Cyprus' ],
+  correct: 0,
+  index: 9
+}
+,
+{
+  id: 'BY',
+  name: 'Belarus',
+  uri: "require('../../assets/flagpng/BY.png)",
+  answer: [ 'Spain', 'Belarus', 'Albania', 'Moldova, Republic of' ],
+  correct: 1,
+  index: 15
+}
+,
+{
+  id: 'BE',
+  name: 'Belgium',
+  uri: "require('../../assets/flagpng/BE.png)",
+  answer: [ 'Sweden', 'Belgium', 'North Macedonia', 'Estonia' ],
+  correct: 1,
+  index: 16
+}
+,
+{
+  id: 'BA',
+  name: 'Bosnia and Herzegovina',
+  uri: "require('../../assets/flagpng/BA.png)",
+  answer: [ 'Finland', 'Bosnia and Herzegovina', 'Sweden', 'Liechtenstein' ],
+  correct: 1,
+  index: 21
+}
+,
+{
+  id: 'BG',
+  name: 'Bulgaria',
+  uri: "require('../../assets/flagpng/BG.png)",
+  answer: [ 'Albania', 'Bulgaria', 'Portugal', 'Liechtenstein' ],
+  correct: 1,
+  index: 25
+}
+,
+{
+  id: 'HR',
+  name: 'Croatia',
+  uri: "require('../../assets/flagpng/HR.png)",
+  answer: [ 'France', 'Croatia', 'Slovenia', 'Italy' ],
+  correct: 1,
+  index: 42
+}
+,
+{
+  id: 'CY',
+  name: 'Cyprus',
+  uri: "require('../../assets/flagpng/CY.png)",
+  answer: [ 'Slovakia', 'Cyprus', 'Bulgaria', 'Greece' ],
+  correct: 1,
+  index: 44
+}
+,
+{
+  id: 'CZ',
+  name: 'Czechia',
+  uri: "require('../../assets/flagpng/CZ.png)",
+  answer: [ 'Ukraine', 'Czechia', 'Czechia', 'Greece' ],
+  correct: 2,
+  index: 45
+}
+,
+{
+  id: 'DK',
+  name: 'Denmark',
+  uri: "require('../../assets/flagpng/DK.png)",
+  answer: [ 'Denmark', 'Spain', 'Monaco', 'Austria' ],
+  correct: 0,
+  index: 46
+}
+,
+{
+  id: 'EE',
+  name: 'Estonia',
+  uri: "require('../../assets/flagpng/EE.png)",
+  answer: [ 'Finland', 'Iceland', 'Estonia', 'Switzerland' ],
+  correct: 2,
+  index: 55
+}
+,
+{
+  id: 'FI',
+  name: 'Finland',
+  uri: "require('../../assets/flagpng/FI.png)",
+  answer: [ 'Bulgaria', 'Finland', 'Malta', 'Serbia' ],
+  correct: 1,
+  index: 59
+}
+,
+{
+  id: 'FR',
+  name: 'France',
+  uri: "require('../../assets/flagpng/FR.png)",
+  answer: [ 'France', 'Romania', 'Finland', 'Greece' ],
+  correct: 0,
+  index: 60
+}
+,
+{
+  id: 'DE',
+  name: 'Germany',
+  uri: "require('../../assets/flagpng/DE.png)",
+  answer: [ 'Malta', 'Poland', 'Albania', 'Germany' ],
+  correct: 3,
+  index: 64
+}
+,
+{
+  id: 'GR',
+  name: 'Greece',
+  uri: "require('../../assets/flagpng/GR.png)",
+  answer: [ 'Malta', 'Cyprus', 'Greece', 'Ukraine' ],
+  correct: 2,
+  index: 66
+}
+,
+{
+  id: 'HU',
+  name: 'Hungary',
+  uri: "require('../../assets/flagpng/HU.png)",
+  answer: [ 'Greece', 'Slovakia', 'Hungary', 'Albania' ],
+  correct: 2,
+  index: 74
+}
+,
+{
+  id: 'IS',
+  name: 'Iceland',
+  uri: "require('../../assets/flagpng/IS.png)",
+  answer: [ 'Albania', 'Spain', 'Malta', 'Iceland' ],
+  correct: 3,
+  index: 75
+}
+,
+{
+  id: 'IE',
+  name: 'Ireland',
+  uri: "require('../../assets/flagpng/IE.png)",
+  answer: [
+    'Ireland',
+    'United Kingdom of Great Britain and Northern Ireland',
+    'Bulgaria',
+    'Italy'
+  ],
+  correct: 0,
+  index: 80
+}
+,
+{
+  id: 'IT',
+  name: 'Italy',
+  uri: "require('../../assets/flagpng/IT.png)",
+  answer: [ 'Albania', 'Portugal', 'Italy', 'Italy' ],
+  correct: 2,
+  index: 82
+}
+,
+{
+  id: 'LV',
+  name: 'Latvia',
+  uri: "require('../../assets/flagpng/LV.png)",
+  answer: [ 'Netherlands', 'Serbia', 'Denmark', 'Latvia' ],
+  correct: 3,
+  index: 94
+}
+,
+{
+  id: 'LI',
+  name: 'Liechtenstein',
+  uri: "require('../../assets/flagpng/LI.png)",
+  answer: [ 'Croatia', 'San Marino', 'Liechtenstein', 'Montenegro' ],
+  correct: 2,
+  index: 99
+}
+,
+{
+  id: 'LT',
+  name: 'Lithuania',
+  uri: "require('../../assets/flagpng/LT.png)",
+  answer: [
+    'Lithuania',
+    'Lithuania',
+    'Andorra',
+    'United Kingdom of Great Britain and Northern Ireland'
+  ],
+  correct: 1,
+  index: 100
+}
+,
+{
+  id: 'LU',
+  name: 'Luxembourg',
+  uri: "require('../../assets/flagpng/LU.png)",
+  answer: [ 'Romania', 'Netherlands', 'Luxembourg', 'Austria' ],
+  correct: 2,
+  index: 101
+}
+,
+{
+  id: 'MT',
+  name: 'Malta',
+  uri: "require('../../assets/flagpng/MT.png)",
+  answer: [ 'Finland', 'Monaco', 'Malta', 'San Marino' ],
+  correct: 2,
+  index: 107
+}
+,
+{
+  id: 'MD',
+  name: 'Moldova, Republic of',
+  uri: "require('../../assets/flagpng/MD.png)",
+  answer: [ 'Switzerland', 'Hungary', 'Croatia', 'Moldova, Republic of' ],
+  correct: 3,
+  index: 113
+}
+,
+{
+  id: 'MC',
+  name: 'Monaco',
+  uri: "require('../../assets/flagpng/MC.png)",
+  answer: [ 'Romania', 'Montenegro', 'Monaco', 'Belgium' ],
+  correct: 2,
+  index: 114
+}
+,
+{
+  id: 'ME',
+  name: 'Montenegro',
+  uri: "require('../../assets/flagpng/ME.png)",
+  answer: [ 'Montenegro', 'Ireland', 'Denmark', 'Spain' ],
+  correct: 0,
+  index: 116
+}
+,
+{
+  id: 'NL',
+  name: 'Netherlands',
+  uri: "require('../../assets/flagpng/NL.png)",
+  answer: [ 'Czechia', 'Netherlands', 'Lithuania', 'Switzerland' ],
+  correct: 1,
+  index: 123
+}
+,
+{
+  id: 'MK',
+  name: 'North Macedonia',
+  uri: "require('../../assets/flagpng/MK.png)",
+  answer: [ 'North Macedonia', 'Albania', 'Spain', 'Ireland' ],
+  correct: 0,
+  index: 128
+}
+,
+{
+  id: 'NO',
+  name: 'Norway',
+  uri: "require('../../assets/flagpng/NO.png)",
+  answer: [ 'Bulgaria', 'Norway', 'Liechtenstein', 'San Marino' ],
+  correct: 1,
+  index: 129
+}
+,
+{
+  id: 'PL',
+  name: 'Poland',
+  uri: "require('../../assets/flagpng/PL.png)",
+  answer: [ 'Malta', 'Slovenia', 'Poland', 'Germany' ],
+  correct: 2,
+  index: 138
+}
+,
+{
+  id: 'PT',
+  name: 'Portugal',
+  uri: "require('../../assets/flagpng/PT.png)",
+  answer: [ 'Sweden', 'Portugal', 'Iceland', 'Germany' ],
+  correct: 1,
+  index: 139
+}
+,
+{
+  id: 'RO',
+  name: 'Romania',
+  uri: "require('../../assets/flagpng/RO.png)",
+  answer: [ 'Spain', 'Malta', 'Bosnia and Herzegovina', 'Romania' ],
+  correct: 3,
+  index: 141
+}
+,
+{
+  id: 'SM',
+  name: 'San Marino',
+  uri: "require('../../assets/flagpng/SM.png)",
+  answer: [ 'Switzerland', 'Italy', 'Czechia', 'San Marino' ],
+  correct: 3,
+  index: 148
+}
+,
+{
+  id: 'RS',
+  name: 'Serbia',
+  uri: "require('../../assets/flagpng/RS.png)",
+  answer: [ 'Luxembourg', 'Serbia', 'Belgium', 'Serbia' ],
+  correct: 1,
+  index: 152
+}
+,
+{
+  id: 'SK',
+  name: 'Slovakia',
+  uri: "require('../../assets/flagpng/SK.png)",
+  answer: [ 'Slovakia', 'Finland', 'San Marino', 'Luxembourg' ],
+  correct: 0,
+  index: 156
+}
+,
+{
+  id: 'SI',
+  name: 'Slovenia',
+  uri: "require('../../assets/flagpng/SI.png)",
+  answer: [ 'Poland', 'Cyprus', 'Norway', 'Slovenia' ],
+  correct: 3,
+  index: 157
+}
+,
+{
+  id: 'ES',
+  name: 'Spain',
+  uri: "require('../../assets/flagpng/ES.png)",
+  answer: [ 'Spain', 'Monaco', 'Switzerland', 'Croatia' ],
+  correct: 0,
+  index: 162
+}
+,
+{
+  id: 'SE',
+  name: 'Sweden',
+  uri: "require('../../assets/flagpng/SE.png)",
+  answer: [ 'Bosnia and Herzegovina', 'Lithuania', 'Slovenia', 'Sweden' ],
+  correct: 3,
+  index: 166
+}
+,
+{
+  id: 'CH',
+  name: 'Switzerland',
+  uri: "require('../../assets/flagpng/CH.png)",
+  answer: [ 'Estonia', 'North Macedonia', 'Switzerland', 'Switzerland' ],
+  correct: 2,
+  index: 167
+}
+,
+{
+  id: 'UA',
+  name: 'Ukraine',
+  uri: "require('../../assets/flagpng/UA.png)",
+  answer: [
+    'United Kingdom of Great Britain and Northern Ireland',
+    'Liechtenstein',
+    'Ukraine',
+    'Croatia'
+  ],
+  correct: 2,
+  index: 181
+}
+,
+{
+  id: 'GB',
+  name: 'United Kingdom of Great Britain and Northern Ireland',
+  uri: "require('../../assets/flagpng/GB.png)",
+  answer: [
+    'United Kingdom of Great Britain and Northern Ireland',
+    'United Kingdom of Great Britain and Northern Ireland',
+    'Belarus',
+    'Hungary'
+  ],
+  correct: 1,
+  index: 183
+}
+,

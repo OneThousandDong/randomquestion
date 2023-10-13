@@ -1,0 +1,1040 @@
+
+E:\tools>node app.js
+Server running at http://127.0.0.1:3000/
+{
+  id: 'DZ',
+  name: 'Algeria',
+  uri: "require('../../assets/flagpng/DZ.png)",
+  answer: [ 'Algeria', 'Liberia', 'Botswana', 'Togo' ],
+  correct: 0,
+  index: 2
+}
+,
+{
+  id: 'AO',
+  name: 'Angola',
+  uri: "require('../../assets/flagpng/AO.png)",
+  answer: [ 'Senegal', 'Angola', 'Eswatini', 'Guinea' ],
+  correct: 1,
+  index: 4
+}
+,
+{
+  id: 'BJ',
+  name: 'Benin',
+  uri: "require('../../assets/flagpng/BJ.png)",
+  answer: [ 'Burundi', 'Liberia', 'Tanzania, United Republic of', 'Benin' ],
+  correct: 3,
+  index: 18
+}
+,
+{
+  id: 'BW',
+  name: 'Botswana',
+  uri: "require('../../assets/flagpng/BW.png)",
+  answer: [ 'Kenya', 'Botswana', 'Eswatini', 'Senegal' ],
+  correct: 1,
+  index: 22
+}
+,
+{
+  id: 'BF',
+  name: 'Burkina Faso',
+  uri: "require('../../assets/flagpng/BF.png)",
+  answer: [ 'Mozambique', 'Burkina Faso', 'Zambia', 'Burkina Faso' ],
+  correct: 1,
+  index: 26
+}
+,
+{
+  id: 'BI',
+  name: 'Burundi',
+  uri: "require('../../assets/flagpng/BI.png)",
+  answer: [
+    'Congo, Democratic Republic of the',
+    'Senegal',
+    'Burundi',
+    'Ethiopia'
+  ],
+  correct: 2,
+  index: 27
+}
+,
+{
+  id: 'CV',
+  name: 'Cabo Verde',
+  uri: "require('../../assets/flagpng/CV.png)",
+  answer: [ 'Cameroon', 'Cabo Verde', 'Morocco', 'Senegal' ],
+  correct: 1,
+  index: 28
+}
+,
+{
+  id: 'CM',
+  name: 'Cameroon',
+  uri: "require('../../assets/flagpng/CM.png)",
+  answer: [ 'Mauritius', 'Cameroon', 'Eritrea', 'Somalia' ],
+  correct: 1,
+  index: 30
+}
+,
+{
+  id: 'CF',
+  name: 'Central African Republic',
+  uri: "require('../../assets/flagpng/CF.png)",
+  answer: [ 'Eritrea', 'Kenya', 'South Sudan', 'Central African Republic' ],
+  correct: 3,
+  index: 32
+}
+,
+{
+  id: 'TD',
+  name: 'Chad',
+  uri: "require('../../assets/flagpng/TD.png)",
+  answer: [ 'Djibouti', 'Chad', 'Tunisia', 'Morocco' ],
+  correct: 1,
+  index: 33
+}
+,
+{
+  id: 'KM',
+  name: 'Comoros',
+  uri: "require('../../assets/flagpng/KM.png)",
+  answer: [ 'Nigeria', 'Seychelles', 'Eritrea', 'Comoros' ],
+  correct: 3,
+  index: 37
+}
+,
+{
+  id: 'CG',
+  name: 'Congo',
+  uri: "require('../../assets/flagpng/CG.png)",
+  answer: [ 'Ethiopia', 'Congo', 'Rwanda', 'Egypt' ],
+  correct: 1,
+  index: 38
+}
+,
+{
+  id: 'CD',
+  name: 'Congo, Democratic Republic of the',
+  uri: "require('../../assets/flagpng/CD.png)",
+  answer: [
+    'Congo, Democratic Republic of the',
+    'Rwanda',
+    'Burkina Faso',
+    'Nigeria'
+  ],
+  correct: 0,
+  index: 39
+}
+,
+{
+  id: 'CI',
+  name: "Côte d'Ivoire",
+  uri: "require('../../assets/flagpng/CI.png)",
+  answer: [ 'Cabo Verde', 'Gabon', 'Tunisia', "Côte d'Ivoire" ],
+  correct: 3,
+  index: 41
+}
+,
+{
+  id: 'DJ',
+  name: 'Djibouti',
+  uri: "require('../../assets/flagpng/DJ.png)",
+  answer: [
+    'Djibouti',
+    'Congo, Democratic Republic of the',
+    'Guinea',
+    'Seychelles'
+  ],
+  correct: 0,
+  index: 47
+}
+,
+{
+  id: 'EG',
+  name: 'Egypt',
+  uri: "require('../../assets/flagpng/EG.png)",
+  answer: [
+    'Egypt',
+    'Tanzania, United Republic of',
+    'Central African Republic',
+    'Guinea'
+  ],
+  correct: 0,
+  index: 51
+}
+,
+{
+  id: 'GQ',
+  name: 'Equatorial Guinea',
+  uri: "require('../../assets/flagpng/GQ.png)",
+  answer: [ 'Burundi', 'Equatorial Guinea', 'Niger', 'Sao Tome and Principe' ],
+  correct: 1,
+  index: 53
+}
+,
+{
+  id: 'ER',
+  name: 'Eritrea',
+  uri: "require('../../assets/flagpng/ER.png)",
+  answer: [ 'Eritrea', 'Gabon', 'Burundi', 'Somalia' ],
+  correct: 0,
+  index: 54
+}
+,
+{
+  id: 'SZ',
+  name: 'Eswatini',
+  uri: "require('../../assets/flagpng/SZ.png)",
+  answer: [ 'Eswatini', 'Eswatini', 'Nigeria', 'Sudan' ],
+  correct: 0,
+  index: 56
+}
+,
+{
+  id: 'ET',
+  name: 'Ethiopia',
+  uri: "require('../../assets/flagpng/ET.png)",
+  answer: [
+    'Nigeria',
+    'Tanzania, United Republic of',
+    "Côte d'Ivoire",
+    'Ethiopia'
+  ],
+  correct: 3,
+  index: 57
+}
+,
+{
+  id: 'GA',
+  name: 'Gabon',
+  uri: "require('../../assets/flagpng/GA.png)",
+  answer: [ 'Rwanda', 'Morocco', 'Gabon', "Côte d'Ivoire" ],
+  correct: 2,
+  index: 61
+}
+,
+{
+  id: 'GM',
+  name: 'Gambia',
+  uri: "require('../../assets/flagpng/GM.png)",
+  answer: [ 'Botswana', 'Seychelles', 'Morocco', 'Gambia' ],
+  correct: 3,
+  index: 62
+}
+,
+{
+  id: 'GH',
+  name: 'Ghana',
+  uri: "require('../../assets/flagpng/GH.png)",
+  answer: [ 'Ghana', 'South Sudan', 'Eritrea', 'Libya' ],
+  correct: 0,
+  index: 65
+}
+,
+{
+  id: 'GN',
+  name: 'Guinea',
+  uri: "require('../../assets/flagpng/GN.png)",
+  answer: [ 'Somalia', 'Chad', 'Namibia', 'Guinea' ],
+  correct: 3,
+  index: 69
+}
+,
+{
+  id: 'GW',
+  name: 'Guinea-Bissau',
+  uri: "require('../../assets/flagpng/GW.png)",
+  answer: [ 'Kenya', 'Angola', 'Uganda', 'Guinea-Bissau' ],
+  correct: 3,
+  index: 70
+}
+,
+{
+  id: 'KE',
+  name: 'Kenya',
+  uri: "require('../../assets/flagpng/KE.png)",
+  answer: [ 'Angola', 'Kenya', 'South Africa', 'Mauritania' ],
+  correct: 1,
+  index: 87
+}
+,
+{
+  id: 'LS',
+  name: 'Lesotho',
+  uri: "require('../../assets/flagpng/LS.png)",
+  answer: [ 'Namibia', "Côte d'Ivoire", 'Sierra Leone', 'Lesotho' ],
+  correct: 3,
+  index: 96
+}
+,
+{
+  id: 'LR',
+  name: 'Liberia',
+  uri: "require('../../assets/flagpng/LR.png)",
+  answer: [ 'Libya', 'South Africa', 'Algeria', 'Liberia' ],
+  correct: 3,
+  index: 97
+}
+,
+{
+  id: 'LY',
+  name: 'Libya',
+  uri: "require('../../assets/flagpng/LY.png)",
+  answer: [ 'South Africa', 'Liberia', 'Angola', 'Libya' ],
+  correct: 3,
+  index: 98
+}
+,
+{
+  id: 'MG',
+  name: 'Madagascar',
+  uri: "require('../../assets/flagpng/MG.png)",
+  answer: [ 'South Sudan', 'Madagascar', 'Burundi', 'Liberia' ],
+  correct: 1,
+  index: 102
+}
+,
+{
+  id: 'MW',
+  name: 'Malawi',
+  uri: "require('../../assets/flagpng/MW.png)",
+  answer: [ 'Malawi', 'Djibouti', 'Guinea-Bissau', 'Sao Tome and Principe' ],
+  correct: 0,
+  index: 103
+}
+,
+{
+  id: 'ML',
+  name: 'Mali',
+  uri: "require('../../assets/flagpng/ML.png)",
+  answer: [ 'Mali', 'Burundi', 'Gambia', 'Togo' ],
+  correct: 0,
+  index: 106
+}
+,
+{
+  id: 'MR',
+  name: 'Mauritania',
+  uri: "require('../../assets/flagpng/MR.png)",
+  answer: [ 'Mauritania', 'Togo', 'Mozambique', 'Comoros' ],
+  correct: 0,
+  index: 109
+}
+,
+{
+  id: 'MU',
+  name: 'Mauritius',
+  uri: "require('../../assets/flagpng/MU.png)",
+  answer: [ 'Zambia', 'Malawi', 'Mauritius', 'Angola' ],
+  correct: 2,
+  index: 110
+}
+,
+{
+  id: 'MA',
+  name: 'Morocco',
+  uri: "require('../../assets/flagpng/MA.png)",
+  answer: [ 'Egypt', 'Morocco', 'Niger', 'Sao Tome and Principe' ],
+  correct: 1,
+  index: 117
+}
+,
+{
+  id: 'MZ',
+  name: 'Mozambique',
+  uri: "require('../../assets/flagpng/MZ.png)",
+  answer: [ 'Morocco', "Côte d'Ivoire", 'South Sudan', 'Mozambique' ],
+  correct: 3,
+  index: 118
+}
+,
+{
+  id: 'NA',
+  name: 'Namibia',
+  uri: "require('../../assets/flagpng/NA.png)",
+  answer: [ 'Madagascar', 'Rwanda', 'Namibia', "Côte d'Ivoire" ],
+  correct: 2,
+  index: 120
+}
+,
+{
+  id: 'NE',
+  name: 'Niger',
+  uri: "require('../../assets/flagpng/NE.png)",
+  answer: [ 'Sierra Leone', 'Niger', 'Niger', 'Congo' ],
+  correct: 1,
+  index: 126
+}
+,
+{
+  id: 'NG',
+  name: 'Nigeria',
+  uri: "require('../../assets/flagpng/NG.png)",
+  answer: [ 'Tunisia', "Côte d'Ivoire", 'Mauritius', 'Nigeria' ],
+  correct: 3,
+  index: 127
+}
+,
+{
+  id: 'RW',
+  name: 'Rwanda',
+  uri: "require('../../assets/flagpng/RW.png)",
+  answer: [ 'Rwanda', 'Equatorial Guinea', 'Mozambique', 'Tunisia' ],
+  correct: 0,
+  index: 143
+}
+,
+{
+  id: 'ST',
+  name: 'Sao Tome and Principe',
+  uri: "require('../../assets/flagpng/ST.png)",
+  answer: [
+    'Sao Tome and Principe',
+    'Congo, Democratic Republic of the',
+    'Libya',
+    'Zambia'
+  ],
+  correct: 0,
+  index: 149
+}
+,
+{
+  id: 'SN',
+  name: 'Senegal',
+  uri: "require('../../assets/flagpng/SN.png)",
+  answer: [ 'Tanzania, United Republic of', 'Djibouti', 'Senegal', 'Liberia' ],
+  correct: 2,
+  index: 151
+}
+,
+{
+  id: 'SC',
+  name: 'Seychelles',
+  uri: "require('../../assets/flagpng/SC.png)",
+  answer: [ 'Zimbabwe', 'Malawi', 'Egypt', 'Seychelles' ],
+  correct: 3,
+  index: 153
+}
+,
+{
+  id: 'SL',
+  name: 'Sierra Leone',
+  uri: "require('../../assets/flagpng/SL.png)",
+  answer: [ 'Burkina Faso', 'Nigeria', 'Rwanda', 'Sierra Leone' ],
+  correct: 3,
+  index: 154
+}
+,
+{
+  id: 'SO',
+  name: 'Somalia',
+  uri: "require('../../assets/flagpng/SO.png)",
+  answer: [ 'Mauritius', 'Chad', 'Rwanda', 'Somalia' ],
+  correct: 3,
+  index: 159
+}
+,
+{
+  id: 'ZA',
+  name: 'South Africa',
+  uri: "require('../../assets/flagpng/ZA.png)",
+  answer: [ 'Libya', 'Burkina Faso', 'Senegal', 'South Africa' ],
+  correct: 3,
+  index: 160
+}
+,
+{
+  id: 'SS',
+  name: 'South Sudan',
+  uri: "require('../../assets/flagpng/SS.png)",
+  answer: [ 'Sierra Leone', 'Mozambique', 'South Sudan', "Côte d'Ivoire" ],
+  correct: 2,
+  index: 161
+}
+,
+{
+  id: 'SD',
+  name: 'Sudan',
+  uri: "require('../../assets/flagpng/SD.png)",
+  answer: [ 'Sao Tome and Principe', 'Eritrea', 'Guinea-Bissau', 'Sudan' ],
+  correct: 3,
+  index: 164
+}
+,
+{
+  id: 'TZ',
+  name: 'Tanzania, United Republic of',
+  uri: "require('../../assets/flagpng/TZ.png)",
+  answer: [
+    'Tanzania, United Republic of',
+    "Côte d'Ivoire",
+    'Libya',
+    'Zimbabwe'
+  ],
+  correct: 0,
+  index: 170
+}
+,
+{
+  id: 'TG',
+  name: 'Togo',
+  uri: "require('../../assets/flagpng/TG.png)",
+  answer: [ 'Tunisia', 'Lesotho', 'Togo', 'Benin' ],
+  correct: 2,
+  index: 173
+}
+,
+{
+  id: 'TN',
+  name: 'Tunisia',
+  uri: "require('../../assets/flagpng/TN.png)",
+  answer: [
+    'Zimbabwe',
+    'Tunisia',
+    'Congo, Democratic Republic of the',
+    'Ghana'
+  ],
+  correct: 1,
+  index: 176
+}
+,
+{
+  id: 'UG',
+  name: 'Uganda',
+  uri: "require('../../assets/flagpng/UG.png)",
+  answer: [ 'Ghana', 'South Africa', 'Uganda', 'Congo' ],
+  correct: 2,
+  index: 180
+}
+,
+{
+  id: 'ZM',
+  name: 'Zambia',
+  uri: "require('../../assets/flagpng/ZM.png)",
+  answer: [ 'South Africa', 'Zambia', 'Comoros', 'Libya' ],
+  correct: 1,
+  index: 191
+}
+,
+{
+  id: 'ZW',
+  name: 'Zimbabwe',
+  uri: "require('../../assets/flagpng/ZW.png)",
+  answer: [ 'Morocco', 'Sudan', 'Zimbabwe', 'Chad' ],
+  correct: 2,
+  index: 192
+}
+,
+{
+  id: 'DZ',
+  name: 'Algeria',
+  uri: "require('../../assets/flagpng/DZ.png)",
+  answer: [ 'Somalia', 'Algeria', 'Algeria', 'Malawi' ],
+  correct: 1,
+  index: 2
+}
+,
+{
+  id: 'AO',
+  name: 'Angola',
+  uri: "require('../../assets/flagpng/AO.png)",
+  answer: [ 'Mauritania', 'Angola', 'Sierra Leone', 'Equatorial Guinea' ],
+  correct: 1,
+  index: 4
+}
+,
+{
+  id: 'BJ',
+  name: 'Benin',
+  uri: "require('../../assets/flagpng/BJ.png)",
+  answer: [ 'Sierra Leone', 'Benin', 'Guinea', 'Central African Republic' ],
+  correct: 1,
+  index: 18
+}
+,
+{
+  id: 'BW',
+  name: 'Botswana',
+  uri: "require('../../assets/flagpng/BW.png)",
+  answer: [ 'Madagascar', 'Botswana', 'Rwanda', 'Burundi' ],
+  correct: 1,
+  index: 22
+}
+,
+{
+  id: 'BF',
+  name: 'Burkina Faso',
+  uri: "require('../../assets/flagpng/BF.png)",
+  answer: [ 'Burkina Faso', 'Libya', 'Djibouti', 'Somalia' ],
+  correct: 0,
+  index: 26
+}
+,
+{
+  id: 'BI',
+  name: 'Burundi',
+  uri: "require('../../assets/flagpng/BI.png)",
+  answer: [
+    'Congo, Democratic Republic of the',
+    'Gabon',
+    'Burundi',
+    'Tunisia'
+  ],
+  correct: 2,
+  index: 27
+}
+,
+{
+  id: 'CV',
+  name: 'Cabo Verde',
+  uri: "require('../../assets/flagpng/CV.png)",
+  answer: [ 'Uganda', 'Cabo Verde', 'Burkina Faso', 'Lesotho' ],
+  correct: 1,
+  index: 28
+}
+,
+{
+  id: 'CM',
+  name: 'Cameroon',
+  uri: "require('../../assets/flagpng/CM.png)",
+  answer: [ 'Gambia', 'Sudan', 'Cameroon', 'Cameroon' ],
+  correct: 2,
+  index: 30
+}
+,
+{
+  id: 'CF',
+  name: 'Central African Republic',
+  uri: "require('../../assets/flagpng/CF.png)",
+  answer: [ 'Central African Republic', 'Seychelles', 'Gambia', 'Egypt' ],
+  correct: 0,
+  index: 32
+}
+,
+{
+  id: 'TD',
+  name: 'Chad',
+  uri: "require('../../assets/flagpng/TD.png)",
+  answer: [ 'Malawi', 'Angola', 'Chad', 'Uganda' ],
+  correct: 2,
+  index: 33
+}
+,
+{
+  id: 'KM',
+  name: 'Comoros',
+  uri: "require('../../assets/flagpng/KM.png)",
+  answer: [ 'Liberia', 'Burkina Faso', 'Zambia', 'Comoros' ],
+  correct: 3,
+  index: 37
+}
+,
+{
+  id: 'CG',
+  name: 'Congo',
+  uri: "require('../../assets/flagpng/CG.png)",
+  answer: [ 'Sierra Leone', 'Kenya', 'Congo', 'Equatorial Guinea' ],
+  correct: 2,
+  index: 38
+}
+,
+{
+  id: 'CD',
+  name: 'Congo, Democratic Republic of the',
+  uri: "require('../../assets/flagpng/CD.png)",
+  answer: [
+    'Congo, Democratic Republic of the',
+    'Benin',
+    'Seychelles',
+    'Gabon'
+  ],
+  correct: 0,
+  index: 39
+}
+,
+{
+  id: 'CI',
+  name: "Côte d'Ivoire",
+  uri: "require('../../assets/flagpng/CI.png)",
+  answer: [ "Côte d'Ivoire", 'Uganda', 'Burundi', 'Libya' ],
+  correct: 0,
+  index: 41
+}
+,
+{
+  id: 'DJ',
+  name: 'Djibouti',
+  uri: "require('../../assets/flagpng/DJ.png)",
+  answer: [ 'Morocco', 'Djibouti', 'Rwanda', 'Equatorial Guinea' ],
+  correct: 1,
+  index: 47
+}
+,
+{
+  id: 'EG',
+  name: 'Egypt',
+  uri: "require('../../assets/flagpng/EG.png)",
+  answer: [ 'Cabo Verde', 'Liberia', 'Egypt', 'Sierra Leone' ],
+  correct: 2,
+  index: 51
+}
+,
+{
+  id: 'GQ',
+  name: 'Equatorial Guinea',
+  uri: "require('../../assets/flagpng/GQ.png)",
+  answer: [ 'Angola', 'Equatorial Guinea', 'Togo', 'Mauritius' ],
+  correct: 1,
+  index: 53
+}
+,
+{
+  id: 'ER',
+  name: 'Eritrea',
+  uri: "require('../../assets/flagpng/ER.png)",
+  answer: [ 'Eritrea', 'Liberia', 'Eswatini', 'Zambia' ],
+  correct: 0,
+  index: 54
+}
+,
+{
+  id: 'SZ',
+  name: 'Eswatini',
+  uri: "require('../../assets/flagpng/SZ.png)",
+  answer: [ 'Seychelles', 'Eswatini', 'Morocco', 'Burkina Faso' ],
+  correct: 1,
+  index: 56
+}
+,
+{
+  id: 'ET',
+  name: 'Ethiopia',
+  uri: "require('../../assets/flagpng/ET.png)",
+  answer: [ 'Togo', 'Malawi', 'Ethiopia', 'Eswatini' ],
+  correct: 2,
+  index: 57
+}
+,
+{
+  id: 'GA',
+  name: 'Gabon',
+  uri: "require('../../assets/flagpng/GA.png)",
+  answer: [ 'Zimbabwe', 'Mozambique', 'Cabo Verde', 'Gabon' ],
+  correct: 3,
+  index: 61
+}
+,
+{
+  id: 'GM',
+  name: 'Gambia',
+  uri: "require('../../assets/flagpng/GM.png)",
+  answer: [ 'Gambia', 'Libya', 'Rwanda', 'Angola' ],
+  correct: 0,
+  index: 62
+}
+,
+{
+  id: 'GH',
+  name: 'Ghana',
+  uri: "require('../../assets/flagpng/GH.png)",
+  answer: [ 'Congo', 'Sudan', 'Guinea-Bissau', 'Ghana' ],
+  correct: 3,
+  index: 65
+}
+,
+{
+  id: 'GN',
+  name: 'Guinea',
+  uri: "require('../../assets/flagpng/GN.png)",
+  answer: [ 'Guinea', 'Niger', 'Burkina Faso', 'Somalia' ],
+  correct: 0,
+  index: 69
+}
+,
+{
+  id: 'GW',
+  name: 'Guinea-Bissau',
+  uri: "require('../../assets/flagpng/GW.png)",
+  answer: [ 'Comoros', 'Gambia', 'Tunisia', 'Guinea-Bissau' ],
+  correct: 3,
+  index: 70
+}
+,
+{
+  id: 'KE',
+  name: 'Kenya',
+  uri: "require('../../assets/flagpng/KE.png)",
+  answer: [ 'South Sudan', 'Kenya', 'Kenya', "Côte d'Ivoire" ],
+  correct: 2,
+  index: 87
+}
+,
+{
+  id: 'LS',
+  name: 'Lesotho',
+  uri: "require('../../assets/flagpng/LS.png)",
+  answer: [ 'Libya', 'Comoros', 'Lesotho', 'Tanzania, United Republic of' ],
+  correct: 2,
+  index: 96
+}
+,
+{
+  id: 'LR',
+  name: 'Liberia',
+  uri: "require('../../assets/flagpng/LR.png)",
+  answer: [ 'Liberia', 'Zimbabwe', "Côte d'Ivoire", 'Liberia' ],
+  correct: 3,
+  index: 97
+}
+,
+{
+  id: 'LY',
+  name: 'Libya',
+  uri: "require('../../assets/flagpng/LY.png)",
+  answer: [ 'Somalia', 'Libya', 'Eritrea', 'Mozambique' ],
+  correct: 1,
+  index: 98
+}
+,
+{
+  id: 'MG',
+  name: 'Madagascar',
+  uri: "require('../../assets/flagpng/MG.png)",
+  answer: [ 'Senegal', "Côte d'Ivoire", 'Madagascar', 'Ghana' ],
+  correct: 2,
+  index: 102
+}
+,
+{
+  id: 'MW',
+  name: 'Malawi',
+  uri: "require('../../assets/flagpng/MW.png)",
+  answer: [
+    'Libya',
+    'Malawi',
+    'Zimbabwe',
+    'Congo, Democratic Republic of the'
+  ],
+  correct: 1,
+  index: 103
+}
+,
+{
+  id: 'ML',
+  name: 'Mali',
+  uri: "require('../../assets/flagpng/ML.png)",
+  answer: [ 'Morocco', 'Mali', "Côte d'Ivoire", 'South Sudan' ],
+  correct: 1,
+  index: 106
+}
+,
+{
+  id: 'MR',
+  name: 'Mauritania',
+  uri: "require('../../assets/flagpng/MR.png)",
+  answer: [ 'Mauritania', 'Ethiopia', 'Cabo Verde', 'South Sudan' ],
+  correct: 0,
+  index: 109
+}
+,
+{
+  id: 'MU',
+  name: 'Mauritius',
+  uri: "require('../../assets/flagpng/MU.png)",
+  answer: [ 'Zimbabwe', 'Libya', 'Eritrea', 'Mauritius' ],
+  correct: 3,
+  index: 110
+}
+,
+{
+  id: 'MA',
+  name: 'Morocco',
+  uri: "require('../../assets/flagpng/MA.png)",
+  answer: [ 'Liberia', 'Morocco', 'South Africa', 'Comoros' ],
+  correct: 1,
+  index: 117
+}
+,
+{
+  id: 'MZ',
+  name: 'Mozambique',
+  uri: "require('../../assets/flagpng/MZ.png)",
+  answer: [ 'Mozambique', 'Senegal', 'Madagascar', 'Cabo Verde' ],
+  correct: 0,
+  index: 118
+}
+,
+{
+  id: 'NA',
+  name: 'Namibia',
+  uri: "require('../../assets/flagpng/NA.png)",
+  answer: [ 'Namibia', 'Namibia', 'Comoros', 'Rwanda' ],
+  correct: 1,
+  index: 120
+}
+,
+{
+  id: 'NE',
+  name: 'Niger',
+  uri: "require('../../assets/flagpng/NE.png)",
+  answer: [ 'Eritrea', 'Guinea', 'Niger', 'Sao Tome and Principe' ],
+  correct: 2,
+  index: 126
+}
+,
+{
+  id: 'NG',
+  name: 'Nigeria',
+  uri: "require('../../assets/flagpng/NG.png)",
+  answer: [ 'Eswatini', 'Zimbabwe', 'Ethiopia', 'Nigeria' ],
+  correct: 3,
+  index: 127
+}
+,
+{
+  id: 'RW',
+  name: 'Rwanda',
+  uri: "require('../../assets/flagpng/RW.png)",
+  answer: [ 'Burundi', 'Lesotho', 'Rwanda', 'Tunisia' ],
+  correct: 2,
+  index: 143
+}
+,
+{
+  id: 'ST',
+  name: 'Sao Tome and Principe',
+  uri: "require('../../assets/flagpng/ST.png)",
+  answer: [ 'Sao Tome and Principe', 'Botswana', 'Liberia', 'Somalia' ],
+  correct: 0,
+  index: 149
+}
+,
+{
+  id: 'SN',
+  name: 'Senegal',
+  uri: "require('../../assets/flagpng/SN.png)",
+  answer: [ 'Sudan', 'Senegal', 'Djibouti', 'Mozambique' ],
+  correct: 1,
+  index: 151
+}
+,
+{
+  id: 'SC',
+  name: 'Seychelles',
+  uri: "require('../../assets/flagpng/SC.png)",
+  answer: [
+    'Seychelles',
+    'Central African Republic',
+    'Sao Tome and Principe',
+    'Gabon'
+  ],
+  correct: 0,
+  index: 153
+}
+,
+{
+  id: 'SL',
+  name: 'Sierra Leone',
+  uri: "require('../../assets/flagpng/SL.png)",
+  answer: [ 'Sierra Leone', 'South Sudan', 'Djibouti', 'Morocco' ],
+  correct: 0,
+  index: 154
+}
+,
+{
+  id: 'SO',
+  name: 'Somalia',
+  uri: "require('../../assets/flagpng/SO.png)",
+  answer: [ 'Somalia', 'Morocco', 'Rwanda', 'Algeria' ],
+  correct: 0,
+  index: 159
+}
+,
+{
+  id: 'ZA',
+  name: 'South Africa',
+  uri: "require('../../assets/flagpng/ZA.png)",
+  answer: [ 'Liberia', 'South Africa', 'South Africa', 'Algeria' ],
+  correct: 2,
+  index: 160
+}
+,
+{
+  id: 'SS',
+  name: 'South Sudan',
+  uri: "require('../../assets/flagpng/SS.png)",
+  answer: [ 'Burkina Faso', 'Togo', 'South Sudan', 'Kenya' ],
+  correct: 2,
+  index: 161
+}
+,
+{
+  id: 'SD',
+  name: 'Sudan',
+  uri: "require('../../assets/flagpng/SD.png)",
+  answer: [ 'Tunisia', 'Mauritius', 'Benin', 'Sudan' ],
+  correct: 3,
+  index: 164
+}
+,
+{
+  id: 'TZ',
+  name: 'Tanzania, United Republic of',
+  uri: "require('../../assets/flagpng/TZ.png)",
+  answer: [ 'Mozambique', 'Chad', 'Tanzania, United Republic of', 'Tunisia' ],
+  correct: 2,
+  index: 170
+}
+,
+{
+  id: 'TG',
+  name: 'Togo',
+  uri: "require('../../assets/flagpng/TG.png)",
+  answer: [ 'Niger', 'Togo', "Côte d'Ivoire", 'Sudan' ],
+  correct: 1,
+  index: 173
+}
+,
+{
+  id: 'TN',
+  name: 'Tunisia',
+  uri: "require('../../assets/flagpng/TN.png)",
+  answer: [ 'Tunisia', 'Malawi', 'Eswatini', 'Somalia' ],
+  correct: 0,
+  index: 176
+}
+,
+{
+  id: 'UG',
+  name: 'Uganda',
+  uri: "require('../../assets/flagpng/UG.png)",
+  answer: [
+    'Tanzania, United Republic of',
+    'Central African Republic',
+    'Malawi',
+    'Uganda'
+  ],
+  correct: 3,
+  index: 180
+}
+,
+{
+  id: 'ZM',
+  name: 'Zambia',
+  uri: "require('../../assets/flagpng/ZM.png)",
+  answer: [ 'Sudan', 'Zambia', 'Central African Republic', 'Madagascar' ],
+  correct: 1,
+  index: 191
+}
+,
+{
+  id: 'ZW',
+  name: 'Zimbabwe',
+  uri: "require('../../assets/flagpng/ZW.png)",
+  answer: [ 'Zimbabwe', 'Algeria', 'Mali', 'Zambia' ],
+  correct: 0,
+  index: 192
+}
+,

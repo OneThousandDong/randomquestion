@@ -1,0 +1,529 @@
+Microsoft Windows [Version 10.0.22000.2416]
+(c) Microsoft Corporation. All rights reserved.
+
+E:\tools>node app.js
+Server running at http://127.0.0.1:3000/
+{
+  id: 'AG',
+  name: 'Antigua and Barbuda',
+  uri: "require('../../assets/flagpng/AG.png)",
+  answer: [ 'Trinidad and Tobago', 'Antigua and Barbuda', 'Haiti', 'Canada' ],
+  correct: 1,
+  index: 5
+}
+,
+{
+  id: 'BS',
+  name: 'Bahamas',
+  uri: "require('../../assets/flagpng/BS.png)",
+  answer: [ 'Bahamas', 'Dominica', 'Saint Kitts and Nevis', 'Saint Lucia' ],
+  correct: 0,
+  index: 11
+}
+,
+{
+  id: 'BB',
+  name: 'Barbados',
+  uri: "require('../../assets/flagpng/BB.png)",
+  answer: [ 'Haiti', 'Trinidad and Tobago', 'Barbados', 'Dominica' ],
+  correct: 2,
+  index: 14
+}
+,
+{
+  id: 'BZ',
+  name: 'Belize',
+  uri: "require('../../assets/flagpng/BZ.png)",
+  answer: [ 'United States of America', 'Barbados', 'Haiti', 'Belize' ],
+  correct: 3,
+  index: 17
+}
+,
+{
+  id: 'CA',
+  name: 'Canada',
+  uri: "require('../../assets/flagpng/CA.png)",
+  answer: [
+    'Antigua and Barbuda',
+    'Canada',
+    'Trinidad and Tobago',
+    'El Salvador'
+  ],
+  correct: 1,
+  index: 31
+}
+,
+{
+  id: 'CR',
+  name: 'Costa Rica',
+  uri: "require('../../assets/flagpng/CR.png)",
+  answer: [ 'United States of America', 'Haiti', 'Belize', 'Costa Rica' ],
+  correct: 3,
+  index: 40
+}
+,
+{
+  id: 'CU',
+  name: 'Cuba',
+  uri: "require('../../assets/flagpng/CU.png)",
+  answer: [
+    'Saint Kitts and Nevis',
+    'Saint Lucia',
+    'Dominican Republic',
+    'Cuba'
+  ],
+  correct: 3,
+  index: 43
+}
+,
+{
+  id: 'DM',
+  name: 'Dominica',
+  uri: "require('../../assets/flagpng/DM.png)",
+  answer: [ 'Costa Rica', 'Dominica', 'Saint Lucia', 'Panama' ],
+  correct: 1,
+  index: 48
+}
+,
+{
+  id: 'DO',
+  name: 'Dominican Republic',
+  uri: "require('../../assets/flagpng/DO.png)",
+  answer: [ 'Grenada', 'Dominican Republic', 'Belize', 'Saint Lucia' ],
+  correct: 1,
+  index: 49
+}
+,
+{
+  id: 'SV',
+  name: 'El Salvador',
+  uri: "require('../../assets/flagpng/SV.png)",
+  answer: [
+    'Costa Rica',
+    'El Salvador',
+    'El Salvador',
+    'United States of America'
+  ],
+  correct: 2,
+  index: 52
+}
+,
+{
+  id: 'GD',
+  name: 'Grenada',
+  uri: "require('../../assets/flagpng/GD.png)",
+  answer: [
+    'Bahamas',
+    'Grenada',
+    'Saint Vincent and the Grenadines',
+    'Saint Kitts and Nevis'
+  ],
+  correct: 1,
+  index: 67
+}
+,
+{
+  id: 'GT',
+  name: 'Guatemala',
+  uri: "require('../../assets/flagpng/GT.png)",
+  answer: [ 'Saint Lucia', 'Guatemala', 'Canada', 'Guatemala' ],
+  correct: 1,
+  index: 68
+}
+,
+{
+  id: 'HT',
+  name: 'Haiti',
+  uri: "require('../../assets/flagpng/HT.png)",
+  answer: [ 'United States of America', 'Haiti', 'Barbados', 'El Salvador' ],
+  correct: 1,
+  index: 72
+}
+,
+{
+  id: 'HN',
+  name: 'Honduras',
+  uri: "require('../../assets/flagpng/HN.png)",
+  answer: [ 'Canada', 'Honduras', 'Saint Lucia', 'Panama' ],
+  correct: 1,
+  index: 73
+}
+,
+{
+  id: 'JM',
+  name: 'Jamaica',
+  uri: "require('../../assets/flagpng/JM.png)",
+  answer: [ 'Mexico', 'Canada', 'United States of America', 'Jamaica' ],
+  correct: 3,
+  index: 83
+}
+,
+{
+  id: 'MX',
+  name: 'Mexico',
+  uri: "require('../../assets/flagpng/MX.png)",
+  answer: [ 'Mexico', 'Nicaragua', 'United States of America', 'Dominica' ],
+  correct: 0,
+  index: 111
+}
+,
+{
+  id: 'NI',
+  name: 'Nicaragua',
+  uri: "require('../../assets/flagpng/NI.png)",
+  answer: [
+    'Nicaragua',
+    'Saint Vincent and the Grenadines',
+    'Dominica',
+    'Haiti'
+  ],
+  correct: 0,
+  index: 125
+}
+,
+{
+  id: 'PA',
+  name: 'Panama',
+  uri: "require('../../assets/flagpng/PA.png)",
+  answer: [ 'United States of America', 'Panama', 'Guatemala', 'Bahamas' ],
+  correct: 1,
+  index: 133
+}
+,
+{
+  id: 'KN',
+  name: 'Saint Kitts and Nevis',
+  uri: "require('../../assets/flagpng/KN.png)",
+  answer: [
+    'Nicaragua',
+    'United States of America',
+    'Dominican Republic',
+    'Saint Kitts and Nevis'
+  ],
+  correct: 3,
+  index: 144
+}
+,
+{
+  id: 'LC',
+  name: 'Saint Lucia',
+  uri: "require('../../assets/flagpng/LC.png)",
+  answer: [ 'Panama', 'United States of America', 'Saint Lucia', 'Cuba' ],
+  correct: 2,
+  index: 145
+}
+,
+{
+  id: 'VC',
+  name: 'Saint Vincent and the Grenadines',
+  uri: "require('../../assets/flagpng/VC.png)",
+  answer: [
+    'Dominica',
+    'Nicaragua',
+    'Saint Vincent and the Grenadines',
+    'Saint Vincent and the Grenadines'
+  ],
+  correct: 2,
+  index: 146
+}
+,
+{
+  id: 'TT',
+  name: 'Trinidad and Tobago',
+  uri: "require('../../assets/flagpng/TT.png)",
+  answer: [
+    'Honduras',
+    'Dominica',
+    'Trinidad and Tobago',
+    'Trinidad and Tobago'
+  ],
+  correct: 3,
+  index: 175
+}
+,
+{
+  id: 'US',
+  name: 'United States of America',
+  uri: "require('../../assets/flagpng/US.png)",
+  answer: [
+    'Trinidad and Tobago',
+    'Grenada',
+    'Cuba',
+    'United States of America'
+  ],
+  correct: 3,
+  index: 184
+}
+,
+{
+  id: 'AG',
+  name: 'Antigua and Barbuda',
+  uri: "require('../../assets/flagpng/AG.png)",
+  answer: [
+    'Saint Vincent and the Grenadines',
+    'Grenada',
+    'Antigua and Barbuda',
+    'Antigua and Barbuda'
+  ],
+  correct: 3,
+  index: 5
+}
+,
+{
+  id: 'BS',
+  name: 'Bahamas',
+  uri: "require('../../assets/flagpng/BS.png)",
+  answer: [
+    'Bahamas',
+    'Dominica',
+    'Saint Vincent and the Grenadines',
+    'Jamaica'
+  ],
+  correct: 0,
+  index: 11
+}
+,
+{
+  id: 'BB',
+  name: 'Barbados',
+  uri: "require('../../assets/flagpng/BB.png)",
+  answer: [
+    'Saint Lucia',
+    'Saint Kitts and Nevis',
+    'Barbados',
+    'Dominican Republic'
+  ],
+  correct: 2,
+  index: 14
+}
+,
+{
+  id: 'BZ',
+  name: 'Belize',
+  uri: "require('../../assets/flagpng/BZ.png)",
+  answer: [
+    'Saint Vincent and the Grenadines',
+    'Belize',
+    'Antigua and Barbuda',
+    'Honduras'
+  ],
+  correct: 1,
+  index: 17
+}
+,
+{
+  id: 'CA',
+  name: 'Canada',
+  uri: "require('../../assets/flagpng/CA.png)",
+  answer: [
+    'Bahamas',
+    'Canada',
+    'Saint Kitts and Nevis',
+    'Saint Vincent and the Grenadines'
+  ],
+  correct: 1,
+  index: 31
+}
+,
+{
+  id: 'CR',
+  name: 'Costa Rica',
+  uri: "require('../../assets/flagpng/CR.png)",
+  answer: [ 'United States of America', 'Panama', 'Bahamas', 'Costa Rica' ],
+  correct: 3,
+  index: 40
+}
+,
+{
+  id: 'CU',
+  name: 'Cuba',
+  uri: "require('../../assets/flagpng/CU.png)",
+  answer: [ 'Canada', 'Cuba', 'Grenada', 'Saint Vincent and the Grenadines' ],
+  correct: 1,
+  index: 43
+}
+,
+{
+  id: 'DM',
+  name: 'Dominica',
+  uri: "require('../../assets/flagpng/DM.png)",
+  answer: [ 'Canada', 'Dominica', 'Honduras', 'Trinidad and Tobago' ],
+  correct: 1,
+  index: 48
+}
+,
+{
+  id: 'DO',
+  name: 'Dominican Republic',
+  uri: "require('../../assets/flagpng/DO.png)",
+  answer: [ 'Dominican Republic', 'Haiti', 'Belize', 'Trinidad and Tobago' ],
+  correct: 0,
+  index: 49
+}
+,
+{
+  id: 'SV',
+  name: 'El Salvador',
+  uri: "require('../../assets/flagpng/SV.png)",
+  answer: [
+    'Saint Vincent and the Grenadines',
+    'Saint Kitts and Nevis',
+    'El Salvador',
+    'Belize'
+  ],
+  correct: 2,
+  index: 52
+}
+,
+{
+  id: 'GD',
+  name: 'Grenada',
+  uri: "require('../../assets/flagpng/GD.png)",
+  answer: [
+    'Honduras',
+    'Bahamas',
+    'Saint Vincent and the Grenadines',
+    'Grenada'
+  ],
+  correct: 3,
+  index: 67
+}
+,
+{
+  id: 'GT',
+  name: 'Guatemala',
+  uri: "require('../../assets/flagpng/GT.png)",
+  answer: [
+    'Trinidad and Tobago',
+    'Saint Kitts and Nevis',
+    'Belize',
+    'Guatemala'
+  ],
+  correct: 3,
+  index: 68
+}
+,
+{
+  id: 'HT',
+  name: 'Haiti',
+  uri: "require('../../assets/flagpng/HT.png)",
+  answer: [ 'Canada', 'Saint Lucia', 'Mexico', 'Haiti' ],
+  correct: 3,
+  index: 72
+}
+,
+{
+  id: 'HN',
+  name: 'Honduras',
+  uri: "require('../../assets/flagpng/HN.png)",
+  answer: [
+    'Barbados',
+    'Saint Kitts and Nevis',
+    'United States of America',
+    'Honduras'
+  ],
+  correct: 3,
+  index: 73
+}
+,
+{
+  id: 'JM',
+  name: 'Jamaica',
+  uri: "require('../../assets/flagpng/JM.png)",
+  answer: [ 'Guatemala', 'Saint Lucia', 'Canada', 'Jamaica' ],
+  correct: 3,
+  index: 83
+}
+,
+{
+  id: 'MX',
+  name: 'Mexico',
+  uri: "require('../../assets/flagpng/MX.png)",
+  answer: [ 'Cuba', 'Saint Lucia', 'Haiti', 'Mexico' ],
+  correct: 3,
+  index: 111
+}
+,
+{
+  id: 'NI',
+  name: 'Nicaragua',
+  uri: "require('../../assets/flagpng/NI.png)",
+  answer: [ 'Mexico', 'Barbados', 'Nicaragua', 'Trinidad and Tobago' ],
+  correct: 2,
+  index: 125
+}
+,
+{
+  id: 'PA',
+  name: 'Panama',
+  uri: "require('../../assets/flagpng/PA.png)",
+  answer: [ 'United States of America', 'Canada', 'Panama', 'Mexico' ],
+  correct: 2,
+  index: 133
+}
+,
+{
+  id: 'KN',
+  name: 'Saint Kitts and Nevis',
+  uri: "require('../../assets/flagpng/KN.png)",
+  answer: [
+    'Grenada',
+    'Saint Kitts and Nevis',
+    'Dominican Republic',
+    'Saint Lucia'
+  ],
+  correct: 1,
+  index: 144
+}
+,
+{
+  id: 'LC',
+  name: 'Saint Lucia',
+  uri: "require('../../assets/flagpng/LC.png)",
+  answer: [ 'Trinidad and Tobago', 'Barbados', 'Saint Lucia', 'Nicaragua' ],
+  correct: 2,
+  index: 145
+}
+,
+{
+  id: 'VC',
+  name: 'Saint Vincent and the Grenadines',
+  uri: "require('../../assets/flagpng/VC.png)",
+  answer: [
+    'Panama',
+    'Saint Vincent and the Grenadines',
+    'Saint Lucia',
+    'Barbados'
+  ],
+  correct: 1,
+  index: 146
+}
+,
+{
+  id: 'TT',
+  name: 'Trinidad and Tobago',
+  uri: "require('../../assets/flagpng/TT.png)",
+  answer: [
+    'United States of America',
+    'Saint Kitts and Nevis',
+    'Barbados',
+    'Trinidad and Tobago'
+  ],
+  correct: 3,
+  index: 175
+}
+,
+{
+  id: 'US',
+  name: 'United States of America',
+  uri: "require('../../assets/flagpng/US.png)",
+  answer: [
+    'Costa Rica',
+    'Trinidad and Tobago',
+    'United States of America',
+    'Haiti'
+  ],
+  correct: 2,
+  index: 184
+}
+,

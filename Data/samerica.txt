@@ -1,0 +1,329 @@
+
+E:\tools>node app.js
+Server running at http://127.0.0.1:3000/
+{
+  id: 'AR',
+  name: 'Argentina',
+  uri: "require('../../assets/flagpng/AR.png)",
+  answer: [
+    'Bolivia (Plurinational State of)',
+    'Argentina',
+    'Peru',
+    'Venezuela (Bolivarian Republic of)'
+  ],
+  correct: 1,
+  index: 6
+}
+,
+{
+  id: 'BO',
+  name: 'Bolivia (Plurinational State of)',
+  uri: "require('../../assets/flagpng/BO.png)",
+  answer: [
+    'Argentina',
+    'Peru',
+    'Venezuela (Bolivarian Republic of)',
+    'Bolivia (Plurinational State of)'
+  ],
+  correct: 3,
+  index: 20
+}
+,
+{
+  id: 'BR',
+  name: 'Brazil',
+  uri: "require('../../assets/flagpng/BR.png)",
+  answer: [
+    'Ecuador',
+    'Brazil',
+    'Bolivia (Plurinational State of)',
+    'Venezuela (Bolivarian Republic of)'
+  ],
+  correct: 1,
+  index: 23
+}
+,
+{
+  id: 'CL',
+  name: 'Chile',
+  uri: "require('../../assets/flagpng/CL.png)",
+  answer: [ 'Venezuela (Bolivarian Republic of)', 'Uruguay', 'Chile', 'Chile' ],
+  correct: 2,
+  index: 34
+}
+,
+{
+  id: 'CO',
+  name: 'Colombia',
+  uri: "require('../../assets/flagpng/CO.png)",
+  answer: [
+    'Brazil',
+    'Paraguay',
+    'Colombia',
+    'Venezuela (Bolivarian Republic of)'
+  ],
+  correct: 2,
+  index: 36
+}
+,
+{
+  id: 'EC',
+  name: 'Ecuador',
+  uri: "require('../../assets/flagpng/EC.png)",
+  answer: [
+    'Suriname',
+    'Ecuador',
+    'Venezuela (Bolivarian Republic of)',
+    'Argentina'
+  ],
+  correct: 1,
+  index: 50
+}
+,
+{
+  id: 'GY',
+  name: 'Guyana',
+  uri: "require('../../assets/flagpng/GY.png)",
+  answer: [
+    'Venezuela (Bolivarian Republic of)',
+    'Paraguay',
+    'Colombia',
+    'Guyana'
+  ],
+  correct: 3,
+  index: 71
+}
+,
+{
+  id: 'PY',
+  name: 'Paraguay',
+  uri: "require('../../assets/flagpng/PY.png)",
+  answer: [
+    'Ecuador',
+    'Paraguay',
+    'Venezuela (Bolivarian Republic of)',
+    'Bolivia (Plurinational State of)'
+  ],
+  correct: 1,
+  index: 135
+}
+,
+{
+  id: 'PE',
+  name: 'Peru',
+  uri: "require('../../assets/flagpng/PE.png)",
+  answer: [ 'Chile', 'Paraguay', 'Peru', 'Venezuela (Bolivarian Republic of)' ],
+  correct: 2,
+  index: 136
+}
+,
+{
+  id: 'SR',
+  name: 'Suriname',
+  uri: "require('../../assets/flagpng/SR.png)",
+  answer: [
+    'Peru',
+    'Venezuela (Bolivarian Republic of)',
+    'Bolivia (Plurinational State of)',
+    'Suriname'
+  ],
+  correct: 3,
+  index: 165
+}
+,
+{
+  id: 'UY',
+  name: 'Uruguay',
+  uri: "require('../../assets/flagpng/UY.png)",
+  answer: [
+    'Uruguay',
+    'Venezuela (Bolivarian Republic of)',
+    'Chile',
+    'Uruguay'
+  ],
+  correct: 0,
+  index: 185
+}
+,
+{
+  id: 'VE',
+  name: 'Venezuela (Bolivarian Republic of)',
+  uri: "require('../../assets/flagpng/VE.png)",
+  answer: [
+    'Venezuela (Bolivarian Republic of)',
+    'Bolivia (Plurinational State of)',
+    'Guyana',
+    'Venezuela (Bolivarian Republic of)'
+  ],
+  correct: 0,
+  index: 188
+}
+,
+{
+  id: 'AR',
+  name: 'Argentina',
+  uri: "require('../../assets/flagpng/AR.png)",
+  answer: [
+    'Venezuela (Bolivarian Republic of)',
+    'Argentina',
+    'Bolivia (Plurinational State of)',
+    'Paraguay'
+  ],
+  correct: 1,
+  index: 6
+}
+,
+{
+  id: 'BO',
+  name: 'Bolivia (Plurinational State of)',
+  uri: "require('../../assets/flagpng/BO.png)",
+  answer: [
+    'Argentina',
+    'Paraguay',
+    'Venezuela (Bolivarian Republic of)',
+    'Bolivia (Plurinational State of)'
+  ],
+  correct: 3,
+  index: 20
+}
+,
+{
+  id: 'BR',
+  name: 'Brazil',
+  uri: "require('../../assets/flagpng/BR.png)",
+  answer: [
+    'Venezuela (Bolivarian Republic of)',
+    'Guyana',
+    'Brazil',
+    'Argentina'
+  ],
+  correct: 2,
+  index: 23
+}
+,
+{
+  id: 'CL',
+  name: 'Chile',
+  uri: "require('../../assets/flagpng/CL.png)",
+  answer: [
+    'Chile',
+    'Argentina',
+    'Paraguay',
+    'Venezuela (Bolivarian Republic of)'
+  ],
+  correct: 0,
+  index: 34
+}
+,
+{
+  id: 'CO',
+  name: 'Colombia',
+  uri: "require('../../assets/flagpng/CO.png)",
+  answer: [
+    'Colombia',
+    'Venezuela (Bolivarian Republic of)',
+    'Brazil',
+    'Peru'
+  ],
+  correct: 0,
+  index: 36
+}
+,
+{
+  id: 'EC',
+  name: 'Ecuador',
+  uri: "require('../../assets/flagpng/EC.png)",
+  answer: [
+    'Venezuela (Bolivarian Republic of)',
+    'Paraguay',
+    'Bolivia (Plurinational State of)',
+    'Ecuador'
+  ],
+  correct: 3,
+  index: 50
+}
+,
+{
+  id: 'GY',
+  name: 'Guyana',
+  uri: "require('../../assets/flagpng/GY.png)",
+  answer: [
+    'Argentina',
+    'Guyana',
+    'Guyana',
+    'Venezuela (Bolivarian Republic of)'
+  ],
+  correct: 2,
+  index: 71
+}
+,
+{
+  id: 'PY',
+  name: 'Paraguay',
+  uri: "require('../../assets/flagpng/PY.png)",
+  answer: [
+    'Ecuador',
+    'Brazil',
+    'Paraguay',
+    'Venezuela (Bolivarian Republic of)'
+  ],
+  correct: 2,
+  index: 135
+}
+,
+{
+  id: 'PE',
+  name: 'Peru',
+  uri: "require('../../assets/flagpng/PE.png)",
+  answer: [
+    'Peru',
+    'Argentina',
+    'Uruguay',
+    'Venezuela (Bolivarian Republic of)'
+  ],
+  correct: 0,
+  index: 136
+}
+,
+{
+  id: 'SR',
+  name: 'Suriname',
+  uri: "require('../../assets/flagpng/SR.png)",
+  answer: [
+    'Suriname',
+    'Guyana',
+    'Venezuela (Bolivarian Republic of)',
+    'Brazil'
+  ],
+  correct: 0,
+  index: 165
+}
+,
+{
+  id: 'UY',
+  name: 'Uruguay',
+  uri: "require('../../assets/flagpng/UY.png)",
+  answer: [
+    'Uruguay',
+    'Venezuela (Bolivarian Republic of)',
+    'Uruguay',
+    'Argentina'
+  ],
+  correct: 2,
+  index: 185
+}
+,
+{
+  id: 'VE',
+  name: 'Venezuela (Bolivarian Republic of)',
+  uri: "require('../../assets/flagpng/VE.png)",
+  answer: [
+    'Brazil',
+    'Peru',
+    'Venezuela (Bolivarian Republic of)',
+    'Venezuela (Bolivarian Republic of)'
+  ],
+  correct: 3,
+  index: 188
+}
+,

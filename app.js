@@ -21,7 +21,7 @@ const asia = () => {
     var nameContriesarea = require('./csvjson.json');
     var index = 0;
     for (var key in nameContriesarea){
-        if (nameContriesarea[key].Continent == 'North America')
+        if (nameContriesarea[key].Continent == 'South America')
         arrContries.push({
             ...nameContriesarea[key],
             index: index
@@ -252,7 +252,7 @@ const countriesAll = () => {
 
 const test = () => {
     var arrContries = [];
-    var nameContries = require('./countries.json');
+    var nameContries = require('./countries195.json');
     // var nameContriesvi = require('./contriesvi.json');
     // console.log(nameContriesvi.length)
     // var nameContriesarea = require('./csvjson.json');
@@ -314,26 +314,28 @@ const test = () => {
             arr.splice(randomNumberArr, 1);
             let arr3 = arr[0];
             let answer = [];
-            answer[arr0] = arrContries[random1];
-            answer[arr1] = arrContries[random2];
-            answer[arr3] = arrContries[random3];
-            answer[arr2] = nameContries[idContry];
-            console.log({
-                id: idContry,
-                name: nameContries[idContry],
-                uri: `require('../../assets/flagpng/${idContry}.png)`,
-                answer: answer,
-                correct: arr2,
-                index: index,
-            });
-            index ++;
-            console.log(',')
+            answer[arr0] = arrContries[random1].name;
+            answer[arr1] = arrContries[random2].name;
+            answer[arr3] = arrContries[random3].name;
+            if (nameContries.find(i => i.alpha2 == idContry.toLowerCase())) {
+                answer[arr2] = nameContries.find(i => i.alpha2 == idContry.toLowerCase()).name;
+                console.log({
+                    id: idContry,
+                    name: nameContries.find(i => i.alpha2 == idContry.toLowerCase()).name,
+                    uri: `require('../../assets/flagpng/${idContry.toLowerCase()}.png)`,
+                    answer: answer,
+                    correct: arr2,
+                    index: index,
+                });
+                index ++;
+                console.log(',')
+            }
         });
     });
 }
 const server = http.createServer((req, res) => {
-    // test();
-    asia();
+    test();
+    // asia();
     // countries195();
     // countriesAll();
     res.statusCode = 200;
